@@ -1,0 +1,411 @@
+item_id,type,title,description,deadline,time,person,priority,source_message_id
+EVENT_001,event,Family dinner,Scheduled event: family dinner at the library.,2026-09-19,10:00,,low,MSG_0001
+TASK_001,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-09,,,low,MSG_0002
+EVENT_002,event,Mentor catch-up,Scheduled event: mentor catch-up at the city clinic.,2026-09-16,11:00,,low,MSG_0003
+TASK_002,task,Reply to the client email,Action requested: reply to the client email.,2026-09-04,,,medium,MSG_0007
+TASK_003,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-09,,,low,MSG_0010
+EVENT_003,event,Internship orientation,Scheduled event: internship orientation at Conference Room 2.,2026-09-18,13:00,,low,MSG_0011
+TASK_004,task,Renew the library book,Action requested: renew the library book.,2026-09-08,,,medium,MSG_0017
+TASK_005,task,Review the model results,Action requested: review the model results.,2026-09-03,,,high,MSG_0019
+EVENT_004,event,Team stand-up,Scheduled event: team stand-up at the college auditorium.,2026-09-04,15:00,,medium,MSG_0023
+TASK_006,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-05,,,medium,MSG_0027
+TASK_007,task,Email the signed document,Action requested: email the signed document.,2026-09-04,,,high,MSG_0028
+TASK_008,task,Update the project tracker,Action requested: update the project tracker.,2026-09-04,,,high,MSG_0031
+TASK_009,task,Upload the assignment,Action requested: upload the assignment.,2026-09-09,,,medium,MSG_0032
+EVENT_005,event,Internship orientation,Scheduled event: internship orientation at Conference Room 2.,2026-09-18,9:00,,low,MSG_0034
+TASK_010,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-10,,,low,MSG_0035
+EVENT_006,event,Study-group session,Scheduled event: study-group session at Google Meet.,2026-09-13,12:00,,low,MSG_0036
+EVENT_007,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0037
+TASK_011,task,Update the project tracker,Action requested: update the project tracker.,2026-09-08,,,medium,MSG_0038
+TASK_012,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0041
+EVENT_008,event,Client discussion,Scheduled event: client discussion at Meeting Room A.,2026-09-12,11:00,,low,MSG_0042
+EVENT_009,event,Family dinner,Scheduled event: family dinner at the college auditorium.,2026-09-04,11:00,,high,MSG_0043
+TASK_013,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-09,,,medium,MSG_0044
+TASK_014,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-07,,,medium,MSG_0045
+TASK_015,task,Call the service centre,Action requested: call the service centre.,2026-09-09,,,medium,MSG_0046
+EVENT_010,event,Product demo,Scheduled event: product demo at Zoom.,2026-09-07,10:00,,medium,MSG_0049
+EVENT_011,event,Doctor appointment,Scheduled event: doctor appointment at the city clinic.,2026-09-16,15:00,,low,MSG_0051
+EVENT_012,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0054
+EVENT_013,event,Client discussion,Scheduled event: client discussion at Zoom.,2026-09-07,14:00,,medium,MSG_0055
+TASK_016,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0056
+TASK_017,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-04,,,high,MSG_0058
+TASK_018,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-08,,,medium,MSG_0060
+EVENT_014,event,AI workshop,Scheduled event: AI workshop at Conference Room 2.,2026-09-08,15:00,,medium,MSG_0062
+TASK_019,task,Renew the library book,Action requested: renew the library book.,2026-09-07,,,medium,MSG_0063
+TASK_020,task,Email the signed document,Action requested: email the signed document.,2026-09-07,,,medium,MSG_0065
+EVENT_015,event,Project review,Scheduled event: project review at Meeting Room A.,2026-09-02,9:00,,high,MSG_0066
+EVENT_016,event,AI workshop,Scheduled event: AI workshop at Google Meet.,2026-09-13,16:00,,low,MSG_0067
+TASK_021,task,Renew the library book,Action requested: renew the library book.,2026-09-05,,,high,MSG_0072
+EVENT_017,event,Product demo,Scheduled event: product demo at Zoom.,2026-09-17,12:00,,low,MSG_0077
+TASK_022,task,Renew the library book,Action requested: renew the library book.,2026-09-04,,,high,MSG_0083
+TASK_023,task,Finish the test cases,Action requested: finish the test cases.,2026-09-08,,,medium,MSG_0088
+TASK_024,task,Call the service centre,Action requested: call the service centre.,2026-09-04,,,high,MSG_0089
+EVENT_018,event,Placement briefing,Scheduled event: placement briefing at the college auditorium.,2026-09-04,11:00,,high,MSG_0097
+EVENT_019,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0098
+EVENT_020,event,Sprint planning,Scheduled event: sprint planning at the city clinic.,2026-09-16,11:00,,low,MSG_0100
+TASK_025,task,Email the signed document,Action requested: email the signed document.,2026-09-07,,,medium,MSG_0101
+TASK_026,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-08,,,medium,MSG_0102
+EVENT_021,event,Technical interview,Scheduled event: technical interview at the main office.,2026-09-05,16:00,,high,MSG_0103
+TASK_027,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0110
+TASK_028,task,Review the model results,Action requested: review the model results.,2026-09-10,,,medium,MSG_0111
+TASK_029,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-04,,,high,MSG_0112
+TASK_030,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-09,,,medium,MSG_0113
+TASK_031,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-08,,,medium,MSG_0114
+TASK_032,task,Call the service centre,Action requested: call the service centre.,2026-09-07,,,medium,MSG_0115
+TASK_033,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-08,,,medium,MSG_0119
+TASK_034,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0121
+EVENT_022,event,Mentor catch-up,Scheduled event: mentor catch-up at the cafeteria.,2026-09-11,14:00,,medium,MSG_0122
+EVENT_023,event,Placement briefing,Scheduled event: placement briefing at the library.,2026-09-19,14:00,,low,MSG_0123
+EVENT_024,event,Mentor catch-up,Scheduled event: mentor catch-up at the city clinic.,2026-09-06,9:00,,high,MSG_0124
+EVENT_025,event,Doctor appointment,Scheduled event: doctor appointment at the cafeteria.,2026-09-11,14:00,,medium,MSG_0127
+EVENT_026,event,Team stand-up,Scheduled event: team stand-up at the college auditorium.,2026-09-14,13:00,,low,MSG_0129
+EVENT_027,event,Project review,Scheduled event: project review at Zoom.,2026-09-17,16:00,,low,MSG_0131
+EVENT_028,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0133
+EVENT_029,event,Mentor catch-up,Scheduled event: mentor catch-up at the cafeteria.,2026-09-21,16:00,,low,MSG_0135
+TASK_035,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-05,,,high,MSG_0136
+EVENT_030,event,Product demo,Scheduled event: product demo at Zoom.,2026-09-17,16:00,,low,MSG_0138
+TASK_036,task,Update the project tracker,Action requested: update the project tracker.,2026-09-07,,,medium,MSG_0139
+TASK_037,task,Call the service centre,Action requested: call the service centre.,2026-09-05,,,high,MSG_0144
+TASK_038,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-04,,,high,MSG_0145
+TASK_039,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-10,,,medium,MSG_0147
+TASK_040,task,Call the service centre,Action requested: call the service centre.,2026-09-03,,,high,MSG_0150
+EVENT_031,event,Project review,Scheduled event: project review at Zoom.,2026-09-07,10:00,,high,MSG_0151
+TASK_041,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0152
+TASK_042,task,Finish the test cases,Action requested: finish the test cases.,2026-09-07,,,high,MSG_0153
+EVENT_032,event,Placement briefing,Scheduled event: placement briefing at the college auditorium.,2026-09-04,15:00,,high,MSG_0154
+EVENT_033,event,Placement briefing,Scheduled event: placement briefing at the college auditorium.,2026-09-14,13:00,,low,MSG_0156
+TASK_043,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-07,,,high,MSG_0157
+TASK_044,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-05,,,high,MSG_0160
+EVENT_034,event,Study-group session,Scheduled event: study-group session at Google Meet.,2026-09-03,14:00,,high,MSG_0162
+TASK_045,task,Call the service centre,Action requested: call the service centre.,2026-09-08,,,medium,MSG_0163
+EVENT_035,event,AI workshop,Scheduled event: AI workshop at Conference Room 2.,2026-09-08,11:00,,medium,MSG_0168
+EVENT_036,event,Sprint planning,Scheduled event: sprint planning at the city clinic.,2026-09-06,9:00,,high,MSG_0169
+TASK_046,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-05,,,high,MSG_0170
+TASK_047,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-09,,,medium,MSG_0171
+TASK_048,task,Review the model results,Action requested: review the model results.,2026-09-05,,,high,MSG_0173
+TASK_049,task,Review the model results,Action requested: review the model results.,2026-09-06,,,high,MSG_0175
+EVENT_037,event,Sprint planning,Scheduled event: sprint planning at the cafeteria.,2026-09-21,16:00,,low,MSG_0177
+TASK_050,task,Renew the library book,Action requested: renew the library book.,2026-09-02,,,high,MSG_0178
+EVENT_038,event,Placement briefing,Scheduled event: placement briefing at the library.,2026-09-09,16:00,,medium,MSG_0184
+TASK_051,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0190
+TASK_052,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0193
+TASK_053,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-03,,,high,MSG_0195
+TASK_054,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0198
+EVENT_039,event,Placement briefing,Scheduled event: placement briefing at the college auditorium.,2026-09-04,15:00,,high,MSG_0201
+TASK_055,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-05,,,high,MSG_0203
+EVENT_040,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0207
+TASK_056,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-06,,,high,MSG_0208
+EVENT_041,event,Team stand-up,Scheduled event: team stand-up at the library.,2026-09-19,10:00,,low,MSG_0209
+TASK_057,task,Finish the test cases,Action requested: finish the test cases.,2026-09-09,,,medium,MSG_0210
+EVENT_042,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0213
+TASK_058,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-06,,,high,MSG_0215
+EVENT_043,event,Project review,Scheduled event: project review at Meeting Room A.,2026-09-12,11:00,,medium,MSG_0216
+EVENT_044,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0217
+EVENT_045,event,Sprint planning,Scheduled event: sprint planning at the city clinic.,2026-09-16,15:00,,low,MSG_0218
+TASK_059,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-05,,,high,MSG_0219
+TASK_060,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-06,,,high,MSG_0220
+TASK_061,task,Finish the test cases,Action requested: finish the test cases.,2026-09-04,,,high,MSG_0221
+EVENT_046,event,Internship orientation,Scheduled event: internship orientation at Conference Room 2.,2026-09-18,9:00,,low,MSG_0222
+EVENT_047,event,Study-group session,Scheduled event: study-group session at Google Meet.,2026-09-13,16:00,,medium,MSG_0223
+TASK_062,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-02,,,high,MSG_0226
+TASK_063,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0227
+TASK_064,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-07,,,high,MSG_0231
+TASK_065,task,Renew the library book,Action requested: renew the library book.,2026-09-10,,,medium,MSG_0232
+TASK_066,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0235
+TASK_067,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0240
+EVENT_048,event,AI workshop,Scheduled event: AI workshop at Google Meet.,2026-09-03,14:00,,high,MSG_0244
+TASK_068,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-08,,,high,MSG_0245
+EVENT_049,event,Mentor catch-up,Scheduled event: mentor catch-up at the cafeteria.,2026-09-21,12:00,,low,MSG_0249
+TASK_069,task,Call the service centre,Action requested: call the service centre.,2026-09-03,,,high,MSG_0251
+TASK_070,task,Back up the project files,Action requested: back up the project files.,2026-09-06,,,high,MSG_0252
+EVENT_050,event,Internship orientation,Scheduled event: internship orientation at Google Meet.,2026-09-03,14:00,,high,MSG_0255
+EVENT_051,event,Client discussion,Scheduled event: client discussion at Meeting Room A.,2026-09-02,13:00,,high,MSG_0258
+TASK_071,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-10,,,high,MSG_0265
+EVENT_052,event,Sprint planning,Scheduled event: sprint planning at the cafeteria.,2026-09-11,14:00,,medium,MSG_0268
+TASK_072,task,Upload the assignment,Action requested: upload the assignment.,2026-09-03,,,high,MSG_0269
+EVENT_053,event,Design review,Scheduled event: design review at the main office.,2026-09-15,14:00,,medium,MSG_0271
+EVENT_054,event,Family dinner,Scheduled event: family dinner at the library.,2026-09-19,14:00,,low,MSG_0275
+EVENT_055,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0278
+TASK_073,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-04,,,high,MSG_0280
+EVENT_056,event,Technical interview,Scheduled event: technical interview at the training hall.,2026-09-10,13:00,,high,MSG_0282
+TASK_074,task,Call the service centre,Action requested: call the service centre.,2026-09-06,,,high,MSG_0283
+TASK_075,task,Reply to the client email,Action requested: reply to the client email.,2026-09-08,,,high,MSG_0287
+TASK_076,task,Finish the test cases,Action requested: finish the test cases.,2026-09-02,,,high,MSG_0289
+EVENT_057,event,Design review,Scheduled event: design review at the training hall.,2026-09-20,15:00,,low,MSG_0293
+EVENT_058,event,Mentor catch-up,Scheduled event: mentor catch-up at the cafeteria.,2026-09-11,10:00,,medium,MSG_0294
+TASK_077,task,Update the project tracker,Action requested: update the project tracker.,2026-09-10,,,high,MSG_0300
+TASK_078,task,Reply to the client email,Action requested: reply to the client email.,2026-09-05,,,high,MSG_0301
+EVENT_059,event,Client discussion,Scheduled event: client discussion at Zoom.,2026-09-17,16:00,,low,MSG_0302
+TASK_079,task,Review the model results,Action requested: review the model results.,2026-09-07,,,high,MSG_0306
+TASK_080,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-02,,,high,MSG_0307
+TASK_081,task,Email the signed document,Action requested: email the signed document.,2026-09-05,,,high,MSG_0309
+TASK_082,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0310
+EVENT_060,event,Study-group session,Scheduled event: study-group session at Conference Room 2.,2026-09-18,9:00,,low,MSG_0311
+TASK_083,task,Back up the project files,Action requested: back up the project files.,2026-09-10,,,high,MSG_0312
+TASK_084,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-03,,,high,MSG_0314
+EVENT_061,event,Technical interview,Scheduled event: technical interview at the training hall.,2026-09-20,15:00,,low,MSG_0316
+TASK_085,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-03,,,high,MSG_0317
+TASK_086,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0323
+EVENT_062,event,College seminar,Scheduled event: college seminar at the training hall.,2026-09-10,9:00,,high,MSG_0327
+EVENT_063,event,AI workshop,Scheduled event: AI workshop at Google Meet.,2026-09-03,14:00,,high,MSG_0330
+TASK_087,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-02,,,high,MSG_0331
+TASK_088,task,Back up the project files,Action requested: back up the project files.,2026-09-04,,,high,MSG_0334
+TASK_089,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-07,,,high,MSG_0335
+EVENT_064,event,Product demo,Scheduled event: product demo at Meeting Room A.,2026-09-12,15:00,,medium,MSG_0338
+TASK_090,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-06,,,high,MSG_0339
+TASK_091,task,Back up the project files,Action requested: back up the project files.,2026-09-07,,,high,MSG_0340
+EVENT_065,event,Product demo,Scheduled event: product demo at Meeting Room A.,2026-09-12,11:00,,high,MSG_0342
+TASK_092,task,Upload the assignment,Action requested: upload the assignment.,2026-09-07,,,high,MSG_0345
+EVENT_066,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0350
+EVENT_067,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0354
+EVENT_068,event,Client discussion,Scheduled event: client discussion at Meeting Room A.,2026-09-12,15:00,,high,MSG_0356
+EVENT_069,event,Project review,Scheduled event: project review at Zoom.,2026-09-17,12:00,,medium,MSG_0357
+TASK_093,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-10,,,high,MSG_0358
+EVENT_070,event,Technical interview,Scheduled event: technical interview at the main office.,2026-09-15,10:00,,medium,MSG_0359
+TASK_094,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-03,,,high,MSG_0360
+TASK_095,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-08,,,high,MSG_0361
+EVENT_071,event,Design review,Scheduled event: design review at the training hall.,2026-09-10,9:00,,high,MSG_0363
+TASK_096,task,Reply to the client email,Action requested: reply to the client email.,2026-09-07,,,high,MSG_0365
+TASK_097,task,Reply to the client email,Action requested: reply to the client email.,2026-09-03,,,high,MSG_0366
+TASK_098,task,Email the signed document,Action requested: email the signed document.,2026-09-09,,,high,MSG_0368
+TASK_099,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-04,,,high,MSG_0369
+TASK_100,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0377
+EVENT_072,event,Internship orientation,Scheduled event: internship orientation at Google Meet.,2026-09-13,12:00,,high,MSG_0378
+TASK_101,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-02,,,high,MSG_0379
+EVENT_073,event,Project review,Scheduled event: project review at Zoom.,2026-09-07,14:00,,high,MSG_0382
+EVENT_074,event,College seminar,Scheduled event: college seminar at the main office.,2026-09-05,16:00,,high,MSG_0384
+TASK_102,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0386
+TASK_103,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0393
+TASK_104,task,Email the signed document,Action requested: email the signed document.,2026-09-03,,,high,MSG_0394
+TASK_105,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-07,,,high,MSG_0396
+TASK_106,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-09,,,high,MSG_0398
+TASK_107,task,Back up the project files,Action requested: back up the project files.,2026-09-02,,,high,MSG_0401
+EVENT_075,event,Doctor appointment,Scheduled event: doctor appointment at the city clinic.,2026-09-16,11:00,,medium,MSG_0405
+TASK_108,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-06,,,high,MSG_0407
+TASK_109,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0410
+TASK_110,task,Update the project tracker,Action requested: update the project tracker.,2026-09-04,,,high,MSG_0412
+EVENT_076,event,Technical interview,Scheduled event: technical interview at the main office.,2026-09-05,12:00,,high,MSG_0413
+EVENT_077,event,Design review,Scheduled event: design review at the main office.,2026-09-05,16:00,,high,MSG_0414
+TASK_111,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-09,,,high,MSG_0417
+TASK_112,task,Reply to the client email,Action requested: reply to the client email.,2026-09-09,,,high,MSG_0418
+TASK_113,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-04,,,high,MSG_0420
+TASK_114,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-03,,,high,MSG_0422
+EVENT_078,event,Product demo,Scheduled event: product demo at Meeting Room A.,2026-09-02,9:00,,high,MSG_0423
+EVENT_079,event,Sprint planning,Scheduled event: sprint planning at the cafeteria.,2026-09-11,10:00,,high,MSG_0424
+TASK_115,task,Review the model results,Action requested: review the model results.,2026-09-08,,,high,MSG_0425
+EVENT_080,event,Project review,Scheduled event: project review at Zoom.,2026-09-17,16:00,,medium,MSG_0427
+EVENT_081,event,Internship orientation,Scheduled event: internship orientation at Conference Room 2.,2026-09-08,11:00,,high,MSG_0430
+EVENT_082,event,Family dinner,Scheduled event: family dinner at the college auditorium.,2026-09-14,13:00,,high,MSG_0435
+TASK_116,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0438
+EVENT_083,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0444
+EVENT_084,event,Technical interview,Scheduled event: technical interview at the training hall.,2026-09-10,13:00,,high,MSG_0445
+EVENT_085,event,AI workshop,Scheduled event: AI workshop at Conference Room 2.,2026-09-18,9:00,,medium,MSG_0449
+EVENT_086,event,College seminar,Scheduled event: college seminar at the main office.,2026-09-15,14:00,,medium,MSG_0450
+TASK_117,task,Reply to the client email,Action requested: reply to the client email.,2026-09-07,,,high,MSG_0451
+TASK_118,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-06,,,high,MSG_0455
+EVENT_087,event,Client discussion,Scheduled event: client discussion at Meeting Room A.,2026-09-02,9:00,,high,MSG_0456
+TASK_119,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0457
+EVENT_088,event,Team stand-up,Scheduled event: team stand-up at the college auditorium.,2026-09-04,11:00,,high,MSG_0458
+EVENT_089,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0462
+EVENT_090,event,Doctor appointment,Scheduled event: doctor appointment at the city clinic.,2026-09-06,9:00,,high,MSG_0465
+TASK_120,task,Review the model results,Action requested: review the model results.,2026-09-05,,,high,MSG_0467
+TASK_121,task,Finish the test cases,Action requested: finish the test cases.,2026-09-06,,,high,MSG_0468
+TASK_122,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-03,,,high,MSG_0473
+EVENT_091,event,Family dinner,Scheduled event: family dinner at the college auditorium.,2026-09-14,9:00,,high,MSG_0479
+TASK_123,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-08,,,high,MSG_0480
+TASK_124,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-02,,,high,MSG_0481
+TASK_125,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-10,,,high,MSG_0483
+EVENT_092,event,Team stand-up,Scheduled event: team stand-up at the college auditorium.,2026-09-04,11:00,,high,MSG_0484
+TASK_126,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-09,,,high,MSG_0485
+TASK_127,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0486
+TASK_128,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-10,,,high,MSG_0487
+EVENT_093,event,Mentor catch-up,Scheduled event: mentor catch-up at the city clinic.,2026-09-16,15:00,,medium,MSG_0488
+TASK_129,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0492
+EVENT_094,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0493
+TASK_130,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0495
+TASK_131,task,Upload the assignment,Action requested: upload the assignment.,2026-09-08,,,high,MSG_0498
+EVENT_095,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0502
+TASK_132,task,Call the service centre,Action requested: call the service centre.,2026-09-10,,,high,MSG_0503
+TASK_133,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0505
+EVENT_096,event,Study-group session,Scheduled event: study-group session at Conference Room 2.,2026-09-18,13:00,,medium,MSG_0508
+EVENT_097,event,Doctor appointment,Scheduled event: doctor appointment at the cafeteria.,2026-09-11,10:00,,high,MSG_0511
+TASK_134,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-05,,,high,MSG_0512
+TASK_135,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-03,,,high,MSG_0513
+TASK_136,task,Renew the library book,Action requested: renew the library book.,2026-09-06,,,high,MSG_0515
+TASK_137,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-04,,,high,MSG_0517
+EVENT_098,event,College seminar,Scheduled event: college seminar at the main office.,2026-09-05,12:00,,high,MSG_0519
+TASK_138,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0523
+TASK_139,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0524
+TASK_140,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0525
+EVENT_099,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0526
+TASK_141,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-10,,,high,MSG_0527
+TASK_142,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-08,,,high,MSG_0530
+TASK_143,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-10,,,high,MSG_0531
+TASK_144,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-03,,,high,MSG_0536
+TASK_145,task,Review the model results,Action requested: review the model results.,2026-09-04,,,high,MSG_0537
+TASK_146,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-03,,,high,MSG_0546
+TASK_147,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-10,,,high,MSG_0547
+EVENT_100,event,Study-group session,Scheduled event: study-group session at Conference Room 2.,2026-09-08,15:00,,high,MSG_0549
+TASK_148,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-05,,,high,MSG_0551
+TASK_149,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-02,,,high,MSG_0552
+TASK_150,task,Renew the library book,Action requested: renew the library book.,2026-09-03,,,high,MSG_0553
+TASK_151,task,Upload the assignment,Action requested: upload the assignment.,2026-09-02,,,high,MSG_0554
+TASK_152,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-08,,,high,MSG_0556
+TASK_153,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-02,,,high,MSG_0557
+TASK_154,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0559
+TASK_155,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-04,,,high,MSG_0561
+EVENT_101,event,Design review,Scheduled event: design review at the training hall.,2026-09-10,9:00,,high,MSG_0565
+TASK_156,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-10,,,high,MSG_0566
+TASK_157,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-05,,,high,MSG_0569
+TASK_158,task,Finish the test cases,Action requested: finish the test cases.,2026-09-03,,,high,MSG_0574
+TASK_159,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-10,,,high,MSG_0577
+TASK_160,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-09,,,high,MSG_0578
+EVENT_102,event,Technical interview,Scheduled event: technical interview at the training hall.,2026-09-10,9:00,,high,MSG_0579
+TASK_161,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0580
+EVENT_103,event,Team stand-up,Scheduled event: team stand-up at the library.,2026-09-19,10:00,,medium,MSG_0584
+TASK_162,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-04,,,high,MSG_0585
+EVENT_104,event,Client discussion,Scheduled event: client discussion at Zoom.,2026-09-07,10:00,,high,MSG_0588
+EVENT_105,event,Placement briefing,Scheduled event: placement briefing at the library.,2026-09-09,16:00,,high,MSG_0590
+EVENT_106,event,Doctor appointment,Scheduled event: doctor appointment at the cafeteria.,2026-09-21,12:00,,medium,MSG_0592
+EVENT_107,event,College seminar,Scheduled event: college seminar at the main office.,2026-09-05,12:00,,high,MSG_0600
+EVENT_108,event,Doctor appointment,Scheduled event: doctor appointment at the cafeteria.,2026-09-21,12:00,,medium,MSG_0601
+TASK_163,task,Finish the test cases,Action requested: finish the test cases.,2026-09-05,,,high,MSG_0602
+EVENT_109,event,Family dinner,Scheduled event: family dinner at the library.,2026-09-09,12:00,,high,MSG_0603
+TASK_164,task,Email the signed document,Action requested: email the signed document.,2026-09-08,,,high,MSG_0605
+EVENT_110,event,Product demo,Scheduled event: product demo at Zoom.,2026-09-07,14:00,,high,MSG_0606
+TASK_165,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-06,,,high,MSG_0607
+TASK_166,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-08,,,high,MSG_0612
+TASK_167,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-02,,,high,MSG_0614
+TASK_168,task,Back up the project files,Action requested: back up the project files.,2026-09-03,,,high,MSG_0615
+EVENT_111,event,Design review,Scheduled event: design review at the main office.,2026-09-15,10:00,,high,MSG_0616
+TASK_169,task,Confirm the interview slot,Action requested: confirm the interview slot.,2026-09-04,,,high,MSG_0617
+TASK_170,task,Finish the test cases,Action requested: finish the test cases.,2026-09-10,,,high,MSG_0618
+EVENT_112,event,Product demo,Scheduled event: product demo at Zoom.,2026-09-07,10:00,,high,MSG_0619
+TASK_171,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-08,,,high,MSG_0620
+TASK_172,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-07,,,high,MSG_0621
+TASK_173,task,Update the project tracker,Action requested: update the project tracker.,2026-09-09,,,high,MSG_0622
+EVENT_113,event,Study-group session,Scheduled event: study-group session at Google Meet.,2026-09-13,12:00,,high,MSG_0623
+TASK_174,task,Complete the onboarding form,Action requested: Complete the onboarding form.,2026-09-06,,,high,MSG_0624
+EVENT_114,event,AI workshop,Scheduled event: AI workshop at Conference Room 2.,2026-09-08,15:00,,high,MSG_0628
+EVENT_115,event,Technical interview,Scheduled event: technical interview at the main office.,2026-09-15,14:00,,high,MSG_0630
+EVENT_116,event,Team stand-up,Scheduled event: team stand-up at the library.,2026-09-09,12:00,,high,MSG_0631
+TASK_175,task,Upload the assignment,Action requested: upload the assignment.,2026-09-06,,,high,MSG_0633
+TASK_176,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0634
+EVENT_117,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0635
+EVENT_118,event,Doctor appointment,Scheduled event: doctor appointment at the city clinic.,2026-09-06,13:00,,high,MSG_0637
+TASK_177,task,Renew the library book,Action requested: renew the library book.,2026-09-09,,,high,MSG_0638
+TASK_178,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-09,,,high,MSG_0639
+TASK_179,task,Upload the assignment,Action requested: upload the assignment.,2026-09-04,,,high,MSG_0640
+EVENT_119,event,Sprint planning,Scheduled event: sprint planning at the city clinic.,2026-09-16,15:00,,high,MSG_0643
+EVENT_120,event,Sprint planning,Scheduled event: sprint planning at the city clinic.,2026-09-06,13:00,,high,MSG_0645
+EVENT_121,event,Family dinner,Scheduled event: family dinner at the college auditorium.,2026-09-14,13:00,,high,MSG_0646
+TASK_180,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-09,,,high,MSG_0652
+TASK_181,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-08,,,high,MSG_0653
+TASK_182,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0654
+TASK_183,task,Update the project tracker,Action requested: update the project tracker.,2026-09-05,,,high,MSG_0656
+TASK_184,task,Back up the project files,Action requested: back up the project files.,2026-09-05,,,high,MSG_0657
+TASK_185,task,Verify the dataset labels,Action requested: verify the dataset labels.,2026-09-05,,,high,MSG_0658
+TASK_186,task,Back up the project files,Action requested: back up the project files.,2026-09-09,,,high,MSG_0659
+EVENT_122,event,Internship orientation,Scheduled event: internship orientation at Google Meet.,2026-09-03,10:00,,high,MSG_0660
+TASK_187,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-03,,,high,MSG_0662
+EVENT_123,event,Sprint planning,Scheduled event: sprint planning at the cafeteria.,2026-09-11,14:00,,high,MSG_0664
+TASK_188,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-05,,,high,MSG_0667
+EVENT_124,event,Sprint planning,Scheduled event: sprint planning at the cafeteria.,2026-09-21,12:00,,medium,MSG_0668
+TASK_189,task,Upload the assignment,Action requested: upload the assignment.,2026-09-10,,,high,MSG_0670
+EVENT_125,event,Doctor appointment,Scheduled event: doctor appointment at the cafeteria.,2026-09-21,16:00,,medium,MSG_0673
+EVENT_126,event,Project review,Scheduled event: project review at Meeting Room A.,2026-09-12,15:00,,high,MSG_0674
+EVENT_127,event,Internship orientation,Scheduled event: internship orientation at Conference Room 2.,2026-09-08,15:00,,high,MSG_0683
+TASK_190,task,Upload the assignment,Action requested: upload the assignment.,2026-09-06,,,high,MSG_0688
+TASK_191,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-02,,,high,MSG_0690
+EVENT_128,event,Project review,Scheduled event: project review at Meeting Room A.,2026-09-02,13:00,,high,MSG_0693
+TASK_192,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-02,,,high,MSG_0694
+TASK_193,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0696
+EVENT_129,event,Family dinner,Scheduled event: family dinner at the library.,2026-09-09,12:00,,high,MSG_0697
+EVENT_130,event,Study-group session,Scheduled event: study-group session at Google Meet.,2026-09-03,10:00,,high,MSG_0706
+EVENT_131,event,Product demo,Scheduled event: product demo at Meeting Room A.,2026-09-02,13:00,,high,MSG_0707
+TASK_194,task,Update the project tracker,Action requested: update the project tracker.,2026-09-02,,,high,MSG_0708
+EVENT_132,event,Doctor appointment,Scheduled event: doctor appointment at the city clinic.,2026-09-06,13:00,,high,MSG_0711
+TASK_195,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-07,,,high,MSG_0716
+TASK_196,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0717
+EVENT_133,event,Mentor catch-up,Scheduled event: mentor catch-up at the city clinic.,2026-09-06,13:00,,high,MSG_0719
+TASK_197,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-09,,,high,MSG_0720
+TASK_198,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-02,,,high,MSG_0722
+TASK_199,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-09,,,high,MSG_0725
+TASK_200,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-03,,,high,MSG_0730
+TASK_201,task,Update the project tracker,Action requested: update the project tracker.,2026-09-06,,,high,MSG_0736
+TASK_202,task,Renew the library book,Action requested: renew the library book.,2026-09-10,,,high,MSG_0740
+TASK_203,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-02,,,high,MSG_0743
+EVENT_134,event,Team stand-up,Scheduled event: team stand-up at the library.,2026-09-09,16:00,,high,MSG_0744
+EVENT_135,event,AI workshop,Scheduled event: AI workshop at Google Meet.,2026-09-03,10:00,,high,MSG_0745
+EVENT_136,event,AI workshop,Scheduled event: AI workshop at Conference Room 2.,2026-09-18,13:00,,high,MSG_0747
+TASK_204,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-04,,,high,MSG_0754
+TASK_205,task,Call the service centre,Action requested: call the service centre.,2026-09-02,,,high,MSG_0757
+EVENT_137,event,Product demo,Scheduled event: product demo at Meeting Room A.,2026-09-12,11:00,,high,MSG_0759
+TASK_206,task,Upload the assignment,Action requested: upload the assignment.,2026-09-05,,,high,MSG_0761
+TASK_207,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0768
+EVENT_138,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0770
+TASK_208,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0775
+TASK_209,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-06,,,high,MSG_0776
+TASK_210,task,Reply to the client email,Action requested: reply to the client email.,2026-09-06,,,high,MSG_0779
+TASK_211,task,Send the revised presentation,Action requested: send the revised presentation.,2026-09-10,,,high,MSG_0780
+TASK_212,task,Review the model results,Action requested: review the model results.,2026-09-09,,,high,MSG_0783
+TASK_213,task,Reply to the client email,Action requested: reply to the client email.,2026-09-02,,,high,MSG_0784
+TASK_214,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-03,,,high,MSG_0787
+EVENT_139,event,Client discussion,Scheduled event: client discussion at Zoom.,2026-09-17,12:00,,high,MSG_0788
+EVENT_140,event,Placement briefing,Scheduled event: placement briefing at the library.,2026-09-09,12:00,,high,MSG_0789
+EVENT_141,event,Project review,Scheduled event: project review at Meeting Room A.,2026-09-02,9:00,,high,MSG_0792
+EVENT_142,event,Study-group session,Scheduled event: study-group session at Conference Room 2.,2026-09-08,11:00,,high,MSG_0793
+TASK_215,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-06,,,high,MSG_0795
+EVENT_143,event,Family dinner,Scheduled event: family dinner at the college auditorium.,2026-09-04,15:00,,high,MSG_0797
+EVENT_144,event,College seminar,Scheduled event: college seminar at the training hall.,2026-09-20,11:00,,high,MSG_0798
+TASK_216,task,Email the signed document,Action requested: email the signed document.,2026-09-02,,,high,MSG_0799
+EVENT_145,event,Design review,Scheduled event: design review at the main office.,2026-09-05,12:00,,high,MSG_0800
+EVENT_146,event,Team meeting (unscheduled),"Extracted from: ""Let us meet sometime next week."" — date/time phrase (""next week"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0801
+TASK_217,task,Pay the electricity bill,Action requested: pay the electricity bill.,2026-09-07,,,high,MSG_0809
+EVENT_147,event,Design review,Scheduled event: design review at the training hall.,2026-09-10,13:00,,high,MSG_0810
+TASK_218,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0811
+TASK_219,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-05,,,high,MSG_0814
+TASK_220,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-04,,,high,MSG_0815
+TASK_221,task,Review the file,"Extracted from: ""review the file before the meeting."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0816
+TASK_222,task,Share the meeting notes,Action requested: Share the meeting notes.,2026-09-02,,,high,MSG_0819
+EVENT_148,event,Placement briefing,Scheduled event: placement briefing at the college auditorium.,2026-09-14,9:00,,high,MSG_0821
+EVENT_149,event,Team stand-up,Scheduled event: team stand-up at the college auditorium.,2026-09-14,9:00,,high,MSG_0822
+EVENT_150,event,Placement briefing,Scheduled event: placement briefing at the library.,2026-09-19,10:00,,high,MSG_0823
+TASK_223,task,Submit the weekly report,Action requested: submit the weekly report.,2026-09-07,,,high,MSG_0824
+TASK_224,task,Finish the test cases,Action requested: finish the test cases.,2026-09-08,,,high,MSG_0826
+TASK_225,task,Call Maya,"Extracted from: ""Please call Maya when you are free.""",,,Maya,low,MSG_0827
+TASK_226,task,Email the signed document,Action requested: email the signed document.,2026-09-10,,,high,MSG_0829
+EVENT_151,event,Technical interview,Scheduled event: technical interview at the training hall.,2026-09-20,11:00,,high,MSG_0831
+EVENT_152,event,Technical interview,Scheduled event: technical interview at the main office.,2026-09-15,14:00,,high,MSG_0837
+EVENT_153,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0840
+EVENT_154,event,Internship orientation,Scheduled event: internship orientation at Google Meet.,2026-09-13,16:00,,high,MSG_0841
+EVENT_155,event,Family dinner,Scheduled event: family dinner at the library.,2026-09-09,16:00,,high,MSG_0845
+EVENT_156,event,Internship orientation,Scheduled event: internship orientation at Google Meet.,2026-09-03,10:00,,high,MSG_0847
+EVENT_157,event,Design review,Scheduled event: design review at the main office.,2026-09-05,16:00,,high,MSG_0849
+TASK_227,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-06,,,high,MSG_0850
+TASK_228,task,Prepare the demo video,Action requested: Prepare the demo video.,2026-09-07,,,high,MSG_0851
+TASK_229,task,Reply to the client email,Action requested: reply to the client email.,2026-09-10,,,high,MSG_0853
+TASK_230,task,Send requested item (unspecified),"Extracted from: ""Could you send it soon?"" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0859
+EVENT_158,event,College seminar,Scheduled event: college seminar at the training hall.,2026-09-20,11:00,,high,MSG_0860
+EVENT_159,event,Mentor catch-up,Scheduled event: mentor catch-up at the cafeteria.,2026-09-11,10:00,,high,MSG_0861
+TASK_231,task,Email the signed document,Action requested: email the signed document.,2026-09-06,,,high,MSG_0862
+TASK_232,task,Back up the project files,Action requested: back up the project files.,2026-09-02,,,high,MSG_0864
+TASK_233,task,Back up the project files,Action requested: back up the project files.,2026-09-08,,,high,MSG_0865
+EVENT_160,event,Mentor catch-up,Scheduled event: mentor catch-up at the city clinic.,2026-09-06,9:00,,high,MSG_0866
+EVENT_161,event,Client discussion,Scheduled event: client discussion at Zoom.,2026-09-07,14:00,,high,MSG_0868
+TASK_234,task,Send the expense receipt,Action requested: Send the expense receipt.,2026-09-07,,,high,MSG_0870
+EVENT_162,event,Team stand-up,Scheduled event: team stand-up at the library.,2026-09-19,14:00,,high,MSG_0871
+EVENT_163,event,Study-group session,Scheduled event: study-group session at Conference Room 2.,2026-09-08,11:00,,high,MSG_0873
+TASK_235,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0875
+EVENT_164,event,College seminar,Scheduled event: college seminar at the training hall.,2026-09-20,15:00,,high,MSG_0877
+EVENT_165,event,Client discussion,Scheduled event: client discussion at Meeting Room A.,2026-09-02,13:00,,high,MSG_0878
+EVENT_166,event,College seminar,Scheduled event: college seminar at the training hall.,2026-09-10,13:00,,high,MSG_0882
+TASK_236,task,Review the model results,Action requested: review the model results.,2026-09-02,,,high,MSG_0883
+TASK_237,task,Update the project tracker,Action requested: update the project tracker.,2026-09-03,,,high,MSG_0884
+EVENT_167,event,Review (tentative),"Extracted from: ""The review could be Friday afternoon."" — date/time phrase (""Friday afternoon"") is relative/vague and was not resolved to an exact value.",unresolved,unresolved,,low,MSG_0886
+TASK_238,task,Prepare the report,"Extracted from: ""The report may be needed tomorrow."" — deadline phrase is relative/vague and was not resolved to an exact date.",unresolved,,,low,MSG_0888
+TASK_239,task,Review the privacy checklist,Action requested: review the privacy checklist.,2026-09-03,,,high,MSG_0893
+EVENT_168,event,Design review,Scheduled event: design review at the training hall.,2026-09-20,11:00,,high,MSG_0894
+EVENT_169,event,AI workshop,Scheduled event: AI workshop at Google Meet.,2026-09-13,12:00,,high,MSG_0895
+TASK_240,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-06,,,high,MSG_0898
+EVENT_170,event,College seminar,Scheduled event: college seminar at the main office.,2026-09-15,10:00,,high,MSG_0900

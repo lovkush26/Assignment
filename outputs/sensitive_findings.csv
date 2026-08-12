@@ -1,0 +1,101 @@
+message_id,sensitivity_type,risk,masked_text,recommended_action,reason
+MSG_0005,private_address,medium,"Hi, My home address is ******.",ask_for_confirmation,Message contains a private home address.
+MSG_0013,bank_or_payment_details,high,One more thing: My card number is ******.,do_not_store,Message contains a payment card number.
+MSG_0018,health_information,medium,One more thing: My recent test result says ******.,ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0047,authentication_token,high,Just checking—My account recovery code is ******.,do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0053,personal_identification_number,high,One more thing: My identification number is ******.,do_not_store,Message contains a personal identification number.
+MSG_0074,authentication_token,high,Just checking—The temporary access token is ******.,do_not_store,Message contains an authentication/access token.
+MSG_0078,health_information,medium,Can you help? My recent test result says ******.,ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0086,password,high,Use password ****** to sign in to the test account.,do_not_store,Message contains an explicit login password.
+MSG_0095,password,high,Please note: Use password ****** to sign in to the test account.,do_not_store,Message contains an explicit login password.
+MSG_0106,health_information,medium,Quick update: My recent test result says ******.,ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0117,authentication_token,high,Please note: The temporary access token is ******.,do_not_store,Message contains an authentication/access token.
+MSG_0118,personal_identification_number,high,For today: My identification number is ******.,do_not_store,Message contains a personal identification number.
+MSG_0120,authentication_token,high,Please note: My account recovery code is ******.,do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0126,private_contact_detail,medium,Can you help? You can contact me on ******.,ask_for_confirmation,Message contains a private phone number.
+MSG_0130,private_address,medium,Can you help? My home address is ******.,ask_for_confirmation,Message contains a private home address.
+MSG_0137,authentication_token,high,My account recovery code is ******.,do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0140,password,high,Can you help? Use password ****** to sign in to the test account.,do_not_store,Message contains an explicit login password.
+MSG_0155,authentication_token,high,FYI: My account recovery code is ******.,do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0172,private_address,medium,Important: My home address is ******.,ask_for_confirmation,Message contains a private home address.
+MSG_0187,health_information,medium,Just checking—My recent test result says ******.,ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0191,private_contact_detail,medium,Quick update: You can contact me on ******.,ask_for_confirmation,Message contains a private phone number.
+MSG_0199,private_address,medium,Quick update: My home address is ******.,ask_for_confirmation,Message contains a private home address.
+MSG_0229,personal_identification_number,high,Can you help? My identification number is ******.,do_not_store,Message contains a personal identification number.
+MSG_0233,authentication_token,high,One more thing: My account recovery code is ******.,do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0243,one_time_password,high,Just checking—Your OTP is ******. It expires in 10 minutes.,do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0254,bank_or_payment_details,high,For today: Please note my bank account number ******.,do_not_store,Message contains a bank account number.
+MSG_0257,bank_or_payment_details,high,FYI: Please note my bank account number ******.,do_not_store,Message contains a bank account number.
+MSG_0264,personal_identification_number,high,"Hi, My identification number is ******.",do_not_store,Message contains a personal identification number.
+MSG_0267,bank_or_payment_details,high,Please note: Please note my bank account number ******.,do_not_store,Message contains a bank account number.
+MSG_0273,one_time_password,high,Quick update: Your OTP is ******. It expires in 10 minutes.,do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0288,one_time_password,high,One more thing: Your OTP is ******. It expires in 10 minutes.,do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0315,authentication_token,high,Important: My account recovery code is ******.,do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0337,private_contact_detail,medium,You can contact me on ******.,ask_for_confirmation,Message contains a private phone number.
+MSG_0344,password,high,"Hi, Use password ****** to sign in to the test account.",do_not_store,Message contains an explicit login password.
+MSG_0346,password,high,Quick update: Use password ****** to sign in to the test account.,do_not_store,Message contains an explicit login password.
+MSG_0347,personal_identification_number,high,Just checking—My identification number is ******.,do_not_store,Message contains a personal identification number.
+MSG_0349,personal_identification_number,high,My identification number is ******.,do_not_store,Message contains a personal identification number.
+MSG_0351,authentication_token,high,Quick update: The temporary access token is ******.,do_not_store,Message contains an authentication/access token.
+MSG_0352,bank_or_payment_details,high,Can you help? Please note my bank account number ******.,do_not_store,Message contains a bank account number.
+MSG_0367,bank_or_payment_details,high,"Hi, My card number is ******.",do_not_store,Message contains a payment card number.
+MSG_0376,password,high,For today: Use password ****** to sign in to the test account.,do_not_store,Message contains an explicit login password.
+MSG_0385,private_address,medium,My home address is ******.,ask_for_confirmation,Message contains a private home address.
+MSG_0389,authentication_token,high,The temporary access token is ******.,do_not_store,Message contains an authentication/access token.
+MSG_0397,bank_or_payment_details,high,Just checking—Please note my bank account number ******.,do_not_store,Message contains a bank account number.
+MSG_0403,authentication_token,high,Quick update: My account recovery code is ******.,do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0411,private_contact_detail,medium,Please note: You can contact me on ******.,ask_for_confirmation,Message contains a private phone number.
+MSG_0416,health_information,medium,Please note: My recent test result says ******.,ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0419,bank_or_payment_details,high,Quick update: My card number is ******.,do_not_store,Message contains a payment card number.
+MSG_0436,authentication_token,high,For today: The temporary access token is ******.,do_not_store,Message contains an authentication/access token.
+MSG_0471,password,high,FYI: Use password ****** to sign in to the test account.,do_not_store,Message contains an explicit login password.
+MSG_0475,private_address,medium,Just checking—My home address is ******.,ask_for_confirmation,Message contains a private home address.
+MSG_0494,health_information,medium,FYI: My recent test result says ******.,ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0496,personal_identification_number,high,Quick update: My identification number is ******.,do_not_store,Message contains a personal identification number.
+MSG_0507,health_information,medium,Important: My recent test result says ******.,ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0532,private_address,medium,For today: My home address is ******.,ask_for_confirmation,Message contains a private home address.
+MSG_0535,private_address,medium,Please note: My home address is ******.,ask_for_confirmation,Message contains a private home address.
+MSG_0539,private_address,medium,FYI: My home address is ******.,ask_for_confirmation,Message contains a private home address.
+MSG_0550,private_contact_detail,medium,One more thing: You can contact me on ******.,ask_for_confirmation,Message contains a private phone number.
+MSG_0572,authentication_token,high,Can you help? The temporary access token is ******.,do_not_store,Message contains an authentication/access token.
+MSG_0576,personal_identification_number,high,Important: My identification number is ******.,do_not_store,Message contains a personal identification number.
+MSG_0581,health_information,medium,My recent test result says ******.,ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0591,authentication_token,high,"Hi, The temporary access token is ******.",do_not_store,Message contains an authentication/access token.
+MSG_0595,one_time_password,high,Can you help? Your OTP is ******. It expires in 10 minutes.,do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0596,one_time_password,high,For today: Your OTP is ******. It expires in 10 minutes.,do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0604,one_time_password,high,FYI: Your OTP is ******. It expires in 10 minutes.,do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0610,bank_or_payment_details,high,Just checking—My card number is ******.,do_not_store,Message contains a payment card number.
+MSG_0636,private_contact_detail,medium,Important: You can contact me on ******.,ask_for_confirmation,Message contains a private phone number.
+MSG_0641,private_contact_detail,medium,Just checking—You can contact me on ******.,ask_for_confirmation,Message contains a private phone number.
+MSG_0642,bank_or_payment_details,high,Important: Please note my bank account number ******.,do_not_store,Message contains a bank account number.
+MSG_0649,bank_or_payment_details,high,Can you help? My card number is ******.,do_not_store,Message contains a payment card number.
+MSG_0651,private_contact_detail,medium,For today: You can contact me on ******.,ask_for_confirmation,Message contains a private phone number.
+MSG_0678,authentication_token,high,For today: My account recovery code is ******.,do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0681,bank_or_payment_details,high,Important: My card number is ******.,do_not_store,Message contains a payment card number.
+MSG_0684,bank_or_payment_details,high,For today: My card number is ******.,do_not_store,Message contains a payment card number.
+MSG_0687,authentication_token,high,Important: The temporary access token is ******.,do_not_store,Message contains an authentication/access token.
+MSG_0695,private_contact_detail,medium,FYI: You can contact me on ******.,ask_for_confirmation,Message contains a private phone number.
+MSG_0715,authentication_token,high,FYI: The temporary access token is ******.,do_not_store,Message contains an authentication/access token.
+MSG_0723,authentication_token,high,"Hi, My account recovery code is ******.",do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0726,personal_identification_number,high,FYI: My identification number is ******.,do_not_store,Message contains a personal identification number.
+MSG_0727,password,high,Just checking—Use password ****** to sign in to the test account.,do_not_store,Message contains an explicit login password.
+MSG_0739,health_information,medium,"Hi, My recent test result says ******.",ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0749,password,high,Important: Use password ****** to sign in to the test account.,do_not_store,Message contains an explicit login password.
+MSG_0751,bank_or_payment_details,high,"Hi, Please note my bank account number ******.",do_not_store,Message contains a bank account number.
+MSG_0752,bank_or_payment_details,high,Please note my bank account number ******.,do_not_store,Message contains a bank account number.
+MSG_0753,authentication_token,high,Can you help? My account recovery code is ******.,do_not_store,Message contains an account recovery code that can be used to bypass authentication.
+MSG_0763,personal_identification_number,high,Please note: My identification number is ******.,do_not_store,Message contains a personal identification number.
+MSG_0772,health_information,medium,For today: My recent test result says ******.,ask_for_confirmation,"Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+MSG_0777,password,high,One more thing: Use password ****** to sign in to the test account.,do_not_store,Message contains an explicit login password.
+MSG_0778,authentication_token,high,One more thing: The temporary access token is ******.,do_not_store,Message contains an authentication/access token.
+MSG_0791,one_time_password,high,Please note: Your OTP is ******. It expires in 10 minutes.,do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0802,private_address,medium,One more thing: My home address is ******.,ask_for_confirmation,Message contains a private home address.
+MSG_0803,bank_or_payment_details,high,Please note: My card number is ******.,do_not_store,Message contains a payment card number.
+MSG_0804,private_contact_detail,medium,"Hi, You can contact me on ******.",ask_for_confirmation,Message contains a private phone number.
+MSG_0812,bank_or_payment_details,high,My card number is ******.,do_not_store,Message contains a payment card number.
+MSG_0813,bank_or_payment_details,high,FYI: My card number is ******.,do_not_store,Message contains a payment card number.
+MSG_0834,one_time_password,high,Your OTP is ******. It expires in 10 minutes.,do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0848,bank_or_payment_details,high,Quick update: Please note my bank account number ******.,do_not_store,Message contains a bank account number.
+MSG_0854,one_time_password,high,"Hi, Your OTP is ******. It expires in 10 minutes.",do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0880,one_time_password,high,Important: Your OTP is ******. It expires in 10 minutes.,do_not_store,Message contains a one-time password (OTP) used for authentication.
+MSG_0890,bank_or_payment_details,high,One more thing: Please note my bank account number ******.,do_not_store,Message contains a bank account number.

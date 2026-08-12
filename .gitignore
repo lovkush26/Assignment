@@ -1,0 +1,20 @@
+# Real dataset — must not be published (assignment rule). Only the small
+# fictional data/sample_messages.csv is meant to be tracked.
+data/messages.csv
+data/mandatory_demo_ids.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
