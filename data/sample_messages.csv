@@ -1,9 +1,0 @@
-message_id,timestamp,sender,message
-DEMO_001,2026-01-01 09:00:00,Alex,Please submit the weekly report by 2026-01-03.
-DEMO_002,2026-01-01 09:05:00,Alex,"Calendar update: project kickoff, 2026-01-05 at 10:00, Meeting Room B."
-DEMO_003,2026-01-01 09:10:00,Sam,"For my profile, my favourite language is Python."
-DEMO_004,2026-01-01 09:15:00,Ops,The office Wi-Fi will be under maintenance tonight.
-DEMO_005,2026-01-01 09:20:00,Promotions,Flash sale on headphones. Use code SAVE10.
-DEMO_006,2026-01-01 09:25:00,Sam,Use password DemoPass#01 to sign in to the test account.
-DEMO_007,2026-01-01 09:30:00,Alex,Let us meet sometime next week.
-DEMO_008,2026-01-01 09:35:00,Ops,"My home address is 1 Sample Street, Demo City-00."
