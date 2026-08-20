@@ -27,13 +27,43 @@ import re
 from dataclasses import dataclass
 
 from sensitive import detect_sensitive
+from prefixes import strip_noise_prefixes
+from l2_patterns import (
+    detect_l2_signal,
+    SIGNAL_STATUS_CHECK, SIGNAL_DUPLICATE_STATUS_CHECK, SIGNAL_COMPLETED,
+    SIGNAL_CANCELLED, SIGNAL_EVENT_CANCELLED, SIGNAL_RESCHEDULED,
+    SIGNAL_DEADLINE_URGENT_EARLIER, SIGNAL_DEADLINE_CONFLICT,
+    SIGNAL_DEADLINE_EXTENDED, SIGNAL_AMBIGUOUS, SIGNAL_NEW_TASK, SIGNAL_NEW_EVENT,
+)
 
 PROMO_KEYWORDS = re.compile(
-    r"\buse code\b|\bdiscount\b|\bsale\b|\d+%\s*off|\bcashback\b|\bpremium plan\b|"
+    r"\buse code\b|\bdiscount\b|\bsale\b|\d+%\s*off|\bsave\s+\d+%|\bcashback\b|\bpremium plan\b|"
     r"\bsubscription\b|\breward points\b|\bfree delivery\b|\bcoupon\b|"
     r"\blimited-time offer\b|\bstudent plan\b|\bexclusive benefits\b",
     re.IGNORECASE,
 )
+
+# L2 signal type -> (category, confidence override or None to use the
+# signal's own confidence). See l2_patterns.py for how each signal is
+# detected; the category choice is documented in the L2 README section:
+# status-check/new-task/deadline-change messages are still directives
+# ("action_required"); reschedule/new-event messages are still about a
+# scheduled event ("meeting_or_event"); pure status reports (completed/
+# cancelled/ambiguous) carry no outstanding request ("general_information").
+_L2_SIGNAL_CATEGORY = {
+    SIGNAL_STATUS_CHECK: "action_required",
+    SIGNAL_DUPLICATE_STATUS_CHECK: "action_required",
+    SIGNAL_COMPLETED: "general_information",
+    SIGNAL_CANCELLED: "general_information",
+    SIGNAL_EVENT_CANCELLED: "meeting_or_event",
+    SIGNAL_RESCHEDULED: "meeting_or_event",
+    SIGNAL_DEADLINE_URGENT_EARLIER: "action_required",
+    SIGNAL_DEADLINE_CONFLICT: "action_required",
+    SIGNAL_DEADLINE_EXTENDED: "action_required",
+    SIGNAL_AMBIGUOUS: "general_information",
+    SIGNAL_NEW_TASK: "action_required",
+    SIGNAL_NEW_EVENT: "meeting_or_event",
+}
 
 MEETING_KEYWORDS = re.compile(
     r"\bcalendar update\b|\bhappens on\b|\bscheduled for\b|\bplease join the\b|"
@@ -89,6 +119,14 @@ def classify_message(sender: str, message: str) -> Classification:
             category="promotional",
             confidence=0.88,
             reason="Contains marketing/discount language (e.g. a promo code or sale offer).",
+        )
+
+    l2_signal = detect_l2_signal(strip_noise_prefixes(message))
+    if l2_signal:
+        return Classification(
+            category=_L2_SIGNAL_CATEGORY[l2_signal.signal_type],
+            confidence=l2_signal.confidence,
+            reason=l2_signal.reason,
         )
 
     if MEETING_KEYWORDS.search(message):

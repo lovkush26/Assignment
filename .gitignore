@@ -2,6 +2,13 @@
 # fictional data/sample_messages.csv is meant to be tracked.
 data/messages.csv
 data/mandatory_demo_ids.csv
+data/l2_messages.csv
+data/l2_demo_messages.csv
+data/l2_demo_queries.csv
+
+# Raw candidate-dataset packages as received — never publish these either.
+L1_Candidate_Dataset/
+L2_Candidate_Dataset/
 
 # Python
 __pycache__/

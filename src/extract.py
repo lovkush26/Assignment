@@ -20,6 +20,7 @@ from datetime import datetime
 from typing import Optional
 
 from prefixes import strip_noise_prefixes
+from l2_patterns import detect_l2_signal, SIGNAL_NEW_TASK, SIGNAL_NEW_EVENT
 
 KNOWN_NAMES = [
     "Meera", "Ishaan", "Kabir", "Aarav", "Ananya",
@@ -190,9 +191,55 @@ def _extract_event(message: str, msg_date: datetime, msg_id: str) -> Optional[Ex
     return None
 
 
+# --- L2 new-task / new-event signals ---------------------------------------
+#
+# All other L2 signals (status-check, completed, cancelled, rescheduled,
+# deadline-changed, ambiguous, duplicate-status-check) describe something
+# happening to an EXISTING task/event, not a new one — so they deliberately
+# produce no item here. grouping.py resolves them to the existing item by
+# subject match and updates its tracked status/deadline instead. Only a
+# brand-new subject creates a brand-new item, mirroring how L1 never
+# duplicates an item across messages.
+
+def _item_from_new_task_signal(l2, msg_date: datetime, msg_id: str) -> ExtractedItem:
+    return ExtractedItem(
+        type="task",
+        title=l2.subject_title,
+        description=f"New task requested: {l2.subject_title}, deadline {l2.date}.",
+        deadline=l2.date,
+        time=None,
+        person=_find_person(l2.subject_title),
+        priority=_priority_from_dates(msg_date, l2.date),
+        source_message_id=msg_id,
+    )
+
+
+def _item_from_new_event_signal(l2, msg_date: datetime, msg_id: str) -> ExtractedItem:
+    loc_suffix = f" at {l2.location}" if l2.location else ""
+    return ExtractedItem(
+        type="event",
+        title=l2.subject_title,
+        description=f"New event scheduled: {l2.subject_title} on {l2.date} at {l2.time}{loc_suffix}.",
+        deadline=l2.date,
+        time=l2.time,
+        person=None,
+        priority=_priority_from_dates(msg_date, l2.date),
+        source_message_id=msg_id,
+    )
+
+
 def extract_item(category: str, message: str, timestamp: str, msg_id: str) -> Optional[ExtractedItem]:
     msg_date = datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S")
     core = strip_noise_prefixes(message)
+
+    l2 = detect_l2_signal(core)
+    if l2 is not None:
+        if l2.signal_type == SIGNAL_NEW_TASK:
+            return _item_from_new_task_signal(l2, msg_date, msg_id)
+        if l2.signal_type == SIGNAL_NEW_EVENT:
+            return _item_from_new_event_signal(l2, msg_date, msg_id)
+        return None
+
     if category == "action_required":
         return _extract_task(core, msg_date, msg_id)
     if category == "meeting_or_event":

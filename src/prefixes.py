@@ -15,6 +15,12 @@ _NOISE_PREFIXES = [
     "For today:", "FYI:", "One more thing:", "Hi,", "Important:",
     "Just checking—", "Just checking-", "Please note:", "Quick update:",
     "Can you help?",
+    # L2 additions: wrapper labels seen on follow-up/status/completion
+    # messages in l2_messages.csv / l2_demo_messages.csv (see
+    # src/analyze_l2_templates.py). "Update:" is distinct from the L1
+    # "Quick update:" prefix (different leading word) so stripping it here
+    # doesn't affect any L1 message.
+    "Follow-up:", "Additional update:", "Update:",
 ]
 
 
