@@ -1,0 +1,11 @@
+message_id,timestamp,sender,message
+DEMO_L2_001,2026-01-15 09:00:00,Arjun,Please confirm whether you started to review the vendor contract.
+DEMO_L2_002,2026-01-15 09:30:00,Riya,Update: submit the design mockups has been completed successfully.
+DEMO_L2_003,2026-01-15 10:00:00,Arjun,The sprint planning has been moved to 2026-01-20 at 14:00. Please use the new schedule.
+DEMO_L2_004,2026-01-15 10:30:00,Mentor,New task: prepare the onboarding guide by 2026-01-22.
+DEMO_L2_005,2026-01-15 11:00:00,Arjun,"The deadline to review the vendor contract is now 2026-01-09, earlier than previously planned. Treat this as urgent."
+DEMO_L2_006,2026-01-15 11:30:00,Arjun,"Please note that review the vendor contract is due on 2026-01-11, although the earlier message listed another date."
+DEMO_L2_007,2026-01-15 12:00:00,Dev,We may move the client demo; I will confirm the schedule later.
+DEMO_L2_008,2026-01-15 12:30:00,Private Message,Follow-up: Your OTP is 118524-77-B. It expires in 10 minutes-B.
+DEMO_L2_009,2026-01-15 13:00:00,Priya,"This is another status request about review the vendor contract, not a new task."
+DEMO_L2_010,2026-01-15 13:30:00,Riya,Any progress on the item concerning the mockups?

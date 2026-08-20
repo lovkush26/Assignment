@@ -1,0 +1,21 @@
+message_id,timestamp,sender,message
+DEMO_MSG_001,2026-01-01 08:00:00,Riya,Please submit the design mockups by 2026-01-05.
+DEMO_MSG_002,2026-01-01 08:30:00,Arjun,"Calendar update: sprint planning, 2026-01-06 at 10:00, the main office."
+DEMO_MSG_003,2026-01-01 09:00:00,Priya,"For my profile, my favourite language is Python."
+DEMO_MSG_004,2026-01-01 09:30:00,Promotions,Use code SAMPLE20 for 20% off your subscription this week.
+DEMO_MSG_005,2026-01-01 10:00:00,Dev,Your OTP is 118524-77. It expires in 10 minutes.
+DEMO_MSG_006,2026-01-01 10:30:00,Riya,The office wifi will be under maintenance tonight.
+DEMO_MSG_007,2026-01-01 11:00:00,Arjun,I need you to review the vendor contract by 2026-01-08.
+DEMO_MSG_008,2026-01-01 11:30:00,Priya,"My home address is 12 Lake View Road, Pune."
+DEMO_MSG_009,2026-01-01 12:00:00,Dev,Reminder: client demo happens on 2026-01-10 at 15:00 in the demo lab.
+DEMO_MSG_010,2026-01-01 12:30:00,Riya,Just checking-did the invoice go out yet?
+DEMO_MSG_011,2026-01-01 13:00:00,Arjun,Can you review the vendor contract before 2026-01-09?
+DEMO_MSG_012,2026-01-01 13:30:00,Priya,Personal note: i prefer dark mode.
+DEMO_MSG_013,2026-01-01 14:00:00,Dev,Please confirm attendance for the client demo.
+DEMO_MSG_014,2026-01-01 14:30:00,Riya,Use password Sample#Pass1 to sign in.
+DEMO_MSG_015,2026-01-01 15:00:00,Arjun,Quick update: the sprint planning notes are on the portal.
+DEMO_MSG_016,2026-01-01 15:30:00,Priya,Let us meet sometime next week.
+DEMO_MSG_017,2026-01-01 16:00:00,Dev,The review could be Friday afternoon.
+DEMO_MSG_018,2026-01-01 16:30:00,Riya,Following up on submit the design mockups; is it in progress?
+DEMO_MSG_019,2026-01-01 17:00:00,Promotions,Limited-time offer: free delivery on your next order.
+DEMO_MSG_020,2026-01-01 17:30:00,Arjun,Are you available for the sprint retro at 11:00 on 2026-01-12? Location: the main office.

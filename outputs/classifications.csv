@@ -899,3 +899,183 @@ MSG_0897,promotional,0.96,Sent by the Promotions sender and contains marketing/d
 MSG_0898,action_required,0.85,Contains an explicit request/instruction directed at the recipient.
 MSG_0899,personal_information,0.87,Shares a personal fact or preference about the sender/user that is not a secret or identifying credential.
 MSG_0900,meeting_or_event,0.93,Describes a scheduled meeting/event with a date and time.
+MSG_0901,action_required,0.85,"Follow-up/status-check request about ""Review the privacy checklist"" — no new status stated by this message itself."
+MSG_0902,action_required,0.85,"Follow-up/status-check request about ""Reply to the client email"" — no new status stated by this message itself."
+MSG_0903,action_required,0.85,"Follow-up/status-check request about ""Pay the electricity bill"" — no new status stated by this message itself."
+MSG_0904,action_required,0.85,"Follow-up/status-check request about ""Renew the library book"" — no new status stated by this message itself."
+MSG_0905,action_required,0.85,"Follow-up/status-check request about ""Review the model results"" — no new status stated by this message itself."
+MSG_0906,action_required,0.85,"Follow-up/status-check request about ""Confirm the interview slot"" — no new status stated by this message itself."
+MSG_0907,action_required,0.85,"Follow-up/status-check request about ""Email the signed document"" — no new status stated by this message itself."
+MSG_0908,action_required,0.85,"Follow-up/status-check request about ""Update the project tracker"" — no new status stated by this message itself."
+MSG_0909,action_required,0.85,"Follow-up/status-check request about ""Upload the assignment"" — no new status stated by this message itself."
+MSG_0910,action_required,0.85,"Follow-up/status-check request about ""Complete the onboarding form"" — no new status stated by this message itself."
+MSG_0911,action_required,0.85,"Follow-up/status-check request about ""Update the project tracker"" — no new status stated by this message itself."
+MSG_0912,action_required,0.85,"Follow-up/status-check request about ""Complete the Python exercise"" — no new status stated by this message itself."
+MSG_0913,action_required,0.85,"Follow-up/status-check request about ""Complete the onboarding form"" — no new status stated by this message itself."
+MSG_0914,action_required,0.85,"Follow-up/status-check request about ""Call the service centre"" — no new status stated by this message itself."
+MSG_0915,action_required,0.85,"Follow-up/status-check request about ""Review the privacy checklist"" — no new status stated by this message itself."
+MSG_0916,action_required,0.85,"Follow-up/status-check request about ""Complete the onboarding form"" — no new status stated by this message itself."
+MSG_0917,action_required,0.85,"Follow-up/status-check request about ""Renew the library book"" — no new status stated by this message itself."
+MSG_0918,action_required,0.85,"Follow-up/status-check request about ""Email the signed document"" — no new status stated by this message itself."
+MSG_0919,action_required,0.85,"Follow-up/status-check request about ""Renew the library book"" — no new status stated by this message itself."
+MSG_0920,action_required,0.85,"Follow-up/status-check request about ""Renew the library book"" — no new status stated by this message itself."
+MSG_0921,action_required,0.85,"Follow-up/status-check request about ""Review the privacy checklist"" — no new status stated by this message itself."
+MSG_0922,action_required,0.85,"Follow-up/status-check request about ""Reply to the client email"" — no new status stated by this message itself."
+MSG_0923,action_required,0.85,"Follow-up/status-check request about ""Pay the electricity bill"" — no new status stated by this message itself."
+MSG_0924,action_required,0.85,"Follow-up/status-check request about ""Renew the library book"" — no new status stated by this message itself."
+MSG_0925,action_required,0.85,"Follow-up/status-check request about ""Review the model results"" — no new status stated by this message itself."
+MSG_0926,action_required,0.85,"Follow-up/status-check request about ""Confirm the interview slot"" — no new status stated by this message itself."
+MSG_0927,action_required,0.85,"Follow-up/status-check request about ""Email the signed document"" — no new status stated by this message itself."
+MSG_0928,action_required,0.85,"Follow-up/status-check request about ""Update the project tracker"" — no new status stated by this message itself."
+MSG_0929,action_required,0.85,"Follow-up/status-check request about ""Upload the assignment"" — no new status stated by this message itself."
+MSG_0930,action_required,0.85,"Follow-up/status-check request about ""Complete the onboarding form"" — no new status stated by this message itself."
+MSG_0931,general_information,0.95,"""Finish the test cases"" is reported completed."
+MSG_0932,general_information,0.95,"""Call the service centre"" is reported cancelled/no longer required."
+MSG_0933,general_information,0.95,"""Email the signed document"" is reported completed."
+MSG_0934,general_information,0.95,"""Send the revised presentation"" is reported cancelled/no longer required."
+MSG_0935,general_information,0.95,"""Review the model results"" is reported completed."
+MSG_0936,general_information,0.95,"""Send the revised presentation"" is reported cancelled/no longer required."
+MSG_0937,general_information,0.95,"""Prepare the demo video"" is reported completed."
+MSG_0938,general_information,0.95,"""Complete the Python exercise"" is reported cancelled/no longer required."
+MSG_0939,general_information,0.95,"""Call the service centre"" is reported completed."
+MSG_0940,general_information,0.95,"""Send the expense receipt"" is reported cancelled/no longer required."
+MSG_0941,general_information,0.95,"""Update: prepare the demo video"" is reported completed."
+MSG_0942,general_information,0.95,"""Update the project tracker"" is reported cancelled/no longer required."
+MSG_0943,general_information,0.95,"""Update: call the service centre"" is reported completed."
+MSG_0944,general_information,0.95,"""Complete the Python exercise"" is reported cancelled/no longer required."
+MSG_0945,general_information,0.95,"""Update: prepare the demo video"" is reported completed."
+MSG_0946,general_information,0.95,"""Call the service centre"" is reported cancelled/no longer required."
+MSG_0947,general_information,0.95,"""Update: finish the test cases"" is reported completed."
+MSG_0948,general_information,0.95,"""Verify the dataset labels"" is reported cancelled/no longer required."
+MSG_0949,general_information,0.95,"""Submit the weekly report"" is reported completed."
+MSG_0950,general_information,0.95,"""Call the service centre"" is reported cancelled/no longer required."
+MSG_0951,meeting_or_event,0.95,Message states the event was moved to 2026-09-29 at 10:00.
+MSG_0952,meeting_or_event,0.95,Message states the event was moved to 2026-09-30 at 11:00.
+MSG_0953,meeting_or_event,0.95,Message states the event was moved to 2026-10-01 at 12:00.
+MSG_0954,meeting_or_event,0.95,Message states the event was moved to 2026-10-02 at 13:00.
+MSG_0955,meeting_or_event,0.95,Message states the event was moved to 2026-10-03 at 14:00.
+MSG_0956,meeting_or_event,0.95,Message states the event was moved to 2026-10-04 at 15:00.
+MSG_0957,meeting_or_event,0.95,Message states the event was moved to 2026-10-05 at 16:00.
+MSG_0958,meeting_or_event,0.95,Message states the event was moved to 2026-10-06 at 10:00.
+MSG_0959,meeting_or_event,0.95,Message states the event was moved to 2026-10-07 at 11:00.
+MSG_0960,meeting_or_event,0.95,Message states the event was moved to 2026-10-08 at 12:00.
+MSG_0961,meeting_or_event,0.95,Message states the event was moved to 2026-10-09 at 13:00.
+MSG_0962,meeting_or_event,0.95,Message states the event was moved to 2026-10-10 at 14:00.
+MSG_0963,meeting_or_event,0.95,Message states the event was moved to 2026-09-29 at 15:00.
+MSG_0964,meeting_or_event,0.95,Message states the event was moved to 2026-09-30 at 16:00.
+MSG_0965,meeting_or_event,0.95,Message states the event was moved to 2026-10-01 at 10:00.
+MSG_0966,meeting_or_event,0.95,Message states the event was moved to 2026-10-02 at 11:00.
+MSG_0967,meeting_or_event,0.95,Message states the event was moved to 2026-10-03 at 12:00.
+MSG_0968,meeting_or_event,0.95,Message states the event was moved to 2026-10-04 at 13:00.
+MSG_0969,meeting_or_event,0.95,Message states the event was moved to 2026-10-05 at 14:00.
+MSG_0970,meeting_or_event,0.95,Message states the event was moved to 2026-10-06 at 15:00.
+MSG_0971,action_required,0.95,Message moves the deadline earlier to 2026-09-27 and explicitly flags it as urgent.
+MSG_0972,action_required,0.9,"Message states a due date of 2026-09-28 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0973,action_required,0.95,Message moves the deadline earlier to 2026-09-29 and explicitly flags it as urgent.
+MSG_0974,action_required,0.9,"Message states a due date of 2026-09-30 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0975,action_required,0.95,Message moves the deadline earlier to 2026-10-01 and explicitly flags it as urgent.
+MSG_0976,action_required,0.9,"Message states a due date of 2026-10-02 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0977,action_required,0.95,Message moves the deadline earlier to 2026-09-27 and explicitly flags it as urgent.
+MSG_0978,action_required,0.9,"Message states a due date of 2026-09-28 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0979,action_required,0.95,Message moves the deadline earlier to 2026-09-29 and explicitly flags it as urgent.
+MSG_0980,action_required,0.9,"Message states a due date of 2026-09-30 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0981,action_required,0.95,Message moves the deadline earlier to 2026-10-01 and explicitly flags it as urgent.
+MSG_0982,action_required,0.9,"Message states a due date of 2026-10-02 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0983,action_required,0.95,Message moves the deadline earlier to 2026-09-27 and explicitly flags it as urgent.
+MSG_0984,action_required,0.9,"Message states a due date of 2026-09-28 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0985,action_required,0.95,Message moves the deadline earlier to 2026-09-29 and explicitly flags it as urgent.
+MSG_0986,action_required,0.9,"Message states a due date of 2026-09-30 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0987,action_required,0.95,Message moves the deadline earlier to 2026-10-01 and explicitly flags it as urgent.
+MSG_0988,action_required,0.9,"Message states a due date of 2026-10-02 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0989,action_required,0.95,Message moves the deadline earlier to 2026-09-27 and explicitly flags it as urgent.
+MSG_0990,action_required,0.9,"Message states a due date of 2026-09-28 while explicitly noting ""the earlier message listed another date"" — a conflicting deadline."
+MSG_0991,action_required,0.85,"Follow-up/status-check request about ""The assignment"" — no new status stated by this message itself."
+MSG_0992,action_required,0.85,"Follow-up/status-check request about ""Share the meeting notes"" — no new status stated by this message itself."
+MSG_0993,action_required,0.85,"Follow-up/status-check request about ""Call the service centre"" — no new status stated by this message itself."
+MSG_0994,action_required,0.85,"Follow-up/status-check request about ""Reply to the client email"" — no new status stated by this message itself."
+MSG_0995,action_required,0.85,"Follow-up/status-check request about ""Finish the test cases"" — no new status stated by this message itself."
+MSG_0996,action_required,0.85,"Follow-up/status-check request about ""Update the project tracker"" — no new status stated by this message itself."
+MSG_0997,action_required,0.85,"Follow-up/status-check request about ""Reply to the client email"" — no new status stated by this message itself."
+MSG_0998,action_required,0.85,"Follow-up/status-check request about ""The model results"" — no new status stated by this message itself."
+MSG_0999,action_required,0.85,"Follow-up/status-check request about ""The revised presentation"" — no new status stated by this message itself."
+MSG_1000,action_required,0.85,"Follow-up/status-check request about ""Email the signed document"" — no new status stated by this message itself."
+MSG_1001,action_required,0.85,"Follow-up/status-check request about ""Back up the project files"" — no new status stated by this message itself."
+MSG_1002,action_required,0.85,"Follow-up/status-check request about ""Confirm the interview slot"" — no new status stated by this message itself."
+MSG_1003,action_required,0.85,"Follow-up/status-check request about ""The revised presentation"" — no new status stated by this message itself."
+MSG_1004,action_required,0.85,"Follow-up/status-check request about ""The onboarding form"" — no new status stated by this message itself."
+MSG_1005,action_required,0.85,"Follow-up/status-check request about ""Back up the project files"" — no new status stated by this message itself."
+MSG_1006,action_required,0.85,"Follow-up/status-check request about ""The assignment"" — no new status stated by this message itself."
+MSG_1007,action_required,0.85,"Follow-up/status-check request about ""Share the meeting notes"" — no new status stated by this message itself."
+MSG_1008,action_required,0.85,"Follow-up/status-check request about ""Call the service centre"" — no new status stated by this message itself."
+MSG_1009,action_required,0.85,"Follow-up/status-check request about ""Reply to the client email"" — no new status stated by this message itself."
+MSG_1010,action_required,0.85,"Follow-up/status-check request about ""Finish the test cases"" — no new status stated by this message itself."
+MSG_1011,action_required,0.85,"Follow-up/status-check request about ""Update the project tracker"" — no new status stated by this message itself."
+MSG_1012,action_required,0.85,"Follow-up/status-check request about ""Reply to the client email"" — no new status stated by this message itself."
+MSG_1013,action_required,0.85,"Follow-up/status-check request about ""The model results"" — no new status stated by this message itself."
+MSG_1014,action_required,0.85,"Follow-up/status-check request about ""The revised presentation"" — no new status stated by this message itself."
+MSG_1015,action_required,0.85,"Follow-up/status-check request about ""Email the signed document"" — no new status stated by this message itself."
+MSG_1016,meeting_or_event,0.95,New event explicitly scheduled for 2026-09-30 at 10:00.
+MSG_1017,action_required,0.95,New task explicitly requested with a deadline of 2026-10-01.
+MSG_1018,action_required,0.95,New task explicitly requested with a deadline of 2026-10-02.
+MSG_1019,action_required,0.95,New task explicitly requested with a deadline of 2026-10-03.
+MSG_1020,meeting_or_event,0.95,New event explicitly scheduled for 2026-10-04 at 14:00.
+MSG_1021,action_required,0.95,New task explicitly requested with a deadline of 2026-10-05.
+MSG_1022,action_required,0.95,New task explicitly requested with a deadline of 2026-10-06.
+MSG_1023,action_required,0.95,New task explicitly requested with a deadline of 2026-10-07.
+MSG_1024,meeting_or_event,0.95,New event explicitly scheduled for 2026-10-08 at 12:00.
+MSG_1025,action_required,0.95,New task explicitly requested with a deadline of 2026-10-09.
+MSG_1026,action_required,0.95,New task explicitly requested with a deadline of 2026-09-30.
+MSG_1027,action_required,0.95,New task explicitly requested with a deadline of 2026-10-01.
+MSG_1028,meeting_or_event,0.95,New event explicitly scheduled for 2026-10-02 at 10:00.
+MSG_1029,action_required,0.95,New task explicitly requested with a deadline of 2026-10-03.
+MSG_1030,action_required,0.95,New task explicitly requested with a deadline of 2026-10-04.
+MSG_1031,action_required,0.95,New task explicitly requested with a deadline of 2026-10-05.
+MSG_1032,meeting_or_event,0.95,New event explicitly scheduled for 2026-10-06 at 14:00.
+MSG_1033,action_required,0.95,New task explicitly requested with a deadline of 2026-10-07.
+MSG_1034,action_required,0.95,New task explicitly requested with a deadline of 2026-10-08.
+MSG_1035,action_required,0.95,New task explicitly requested with a deadline of 2026-10-09.
+MSG_1036,sensitive_information,0.97,Message contains a detected sensitive value (one_time_password).
+MSG_1037,sensitive_information,0.97,Message contains a detected sensitive value (authentication_token).
+MSG_1038,sensitive_information,0.97,Message contains a detected sensitive value (bank_or_payment_details).
+MSG_1039,sensitive_information,0.97,Message contains a detected sensitive value (private_address).
+MSG_1040,sensitive_information,0.97,Message contains a detected sensitive value (private_contact_detail).
+MSG_1041,sensitive_information,0.97,Message contains a detected sensitive value (health_information).
+MSG_1042,sensitive_information,0.97,Message contains a detected sensitive value (password).
+MSG_1043,sensitive_information,0.97,Message contains a detected sensitive value (personal_identification_number).
+MSG_1044,sensitive_information,0.97,Message contains a detected sensitive value (bank_or_payment_details).
+MSG_1045,sensitive_information,0.97,Message contains a detected sensitive value (authentication_token).
+MSG_1046,sensitive_information,0.97,Message contains a detected sensitive value (one_time_password).
+MSG_1047,sensitive_information,0.97,Message contains a detected sensitive value (authentication_token).
+MSG_1048,sensitive_information,0.97,Message contains a detected sensitive value (bank_or_payment_details).
+MSG_1049,sensitive_information,0.97,Message contains a detected sensitive value (private_address).
+MSG_1050,sensitive_information,0.97,Message contains a detected sensitive value (private_contact_detail).
+MSG_1051,sensitive_information,0.97,Message contains a detected sensitive value (health_information).
+MSG_1052,sensitive_information,0.97,Message contains a detected sensitive value (password).
+MSG_1053,sensitive_information,0.97,Message contains a detected sensitive value (personal_identification_number).
+MSG_1054,sensitive_information,0.97,Message contains a detected sensitive value (bank_or_payment_details).
+MSG_1055,sensitive_information,0.97,Message contains a detected sensitive value (authentication_token).
+MSG_1056,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1057,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1058,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1059,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1060,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1061,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1062,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1063,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1064,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1065,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1066,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1067,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1068,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1069,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1070,general_information,0.4,Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing.
+MSG_1071,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+MSG_1072,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+MSG_1073,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+MSG_1074,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+MSG_1075,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+MSG_1076,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+MSG_1077,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+MSG_1078,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+MSG_1079,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+MSG_1080,general_information,0.65,"Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."

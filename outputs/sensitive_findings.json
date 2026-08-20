@@ -5,7 +5,7 @@
     "risk": "medium",
     "masked_text": "Hi, My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0013",
@@ -13,7 +13,7 @@
     "risk": "high",
     "masked_text": "One more thing: My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0018",
@@ -29,7 +29,7 @@
     "risk": "high",
     "masked_text": "Just checking—My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0053",
@@ -45,7 +45,7 @@
     "risk": "high",
     "masked_text": "Just checking—The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0078",
@@ -85,7 +85,7 @@
     "risk": "high",
     "masked_text": "Please note: The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0118",
@@ -101,7 +101,7 @@
     "risk": "high",
     "masked_text": "Please note: My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0126",
@@ -117,7 +117,7 @@
     "risk": "medium",
     "masked_text": "Can you help? My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0137",
@@ -125,7 +125,7 @@
     "risk": "high",
     "masked_text": "My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0140",
@@ -141,7 +141,7 @@
     "risk": "high",
     "masked_text": "FYI: My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0172",
@@ -149,7 +149,7 @@
     "risk": "medium",
     "masked_text": "Important: My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0187",
@@ -173,7 +173,7 @@
     "risk": "medium",
     "masked_text": "Quick update: My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0229",
@@ -189,7 +189,7 @@
     "risk": "high",
     "masked_text": "One more thing: My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0243",
@@ -205,7 +205,7 @@
     "risk": "high",
     "masked_text": "For today: Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0257",
@@ -213,7 +213,7 @@
     "risk": "high",
     "masked_text": "FYI: Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0264",
@@ -229,7 +229,7 @@
     "risk": "high",
     "masked_text": "Please note: Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0273",
@@ -253,7 +253,7 @@
     "risk": "high",
     "masked_text": "Important: My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0337",
@@ -301,7 +301,7 @@
     "risk": "high",
     "masked_text": "Quick update: The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0352",
@@ -309,7 +309,7 @@
     "risk": "high",
     "masked_text": "Can you help? Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0367",
@@ -317,7 +317,7 @@
     "risk": "high",
     "masked_text": "Hi, My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0376",
@@ -333,7 +333,7 @@
     "risk": "medium",
     "masked_text": "My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0389",
@@ -341,7 +341,7 @@
     "risk": "high",
     "masked_text": "The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0397",
@@ -349,7 +349,7 @@
     "risk": "high",
     "masked_text": "Just checking—Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0403",
@@ -357,7 +357,7 @@
     "risk": "high",
     "masked_text": "Quick update: My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0411",
@@ -381,7 +381,7 @@
     "risk": "high",
     "masked_text": "Quick update: My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0436",
@@ -389,7 +389,7 @@
     "risk": "high",
     "masked_text": "For today: The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0471",
@@ -405,7 +405,7 @@
     "risk": "medium",
     "masked_text": "Just checking—My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0494",
@@ -437,7 +437,7 @@
     "risk": "medium",
     "masked_text": "For today: My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0535",
@@ -445,7 +445,7 @@
     "risk": "medium",
     "masked_text": "Please note: My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0539",
@@ -453,7 +453,7 @@
     "risk": "medium",
     "masked_text": "FYI: My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0550",
@@ -469,7 +469,7 @@
     "risk": "high",
     "masked_text": "Can you help? The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0576",
@@ -493,7 +493,7 @@
     "risk": "high",
     "masked_text": "Hi, The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0595",
@@ -525,7 +525,7 @@
     "risk": "high",
     "masked_text": "Just checking—My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0636",
@@ -549,7 +549,7 @@
     "risk": "high",
     "masked_text": "Important: Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0649",
@@ -557,7 +557,7 @@
     "risk": "high",
     "masked_text": "Can you help? My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0651",
@@ -573,7 +573,7 @@
     "risk": "high",
     "masked_text": "For today: My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0681",
@@ -581,7 +581,7 @@
     "risk": "high",
     "masked_text": "Important: My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0684",
@@ -589,7 +589,7 @@
     "risk": "high",
     "masked_text": "For today: My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0687",
@@ -597,7 +597,7 @@
     "risk": "high",
     "masked_text": "Important: The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0695",
@@ -613,7 +613,7 @@
     "risk": "high",
     "masked_text": "FYI: The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0723",
@@ -621,7 +621,7 @@
     "risk": "high",
     "masked_text": "Hi, My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0726",
@@ -661,7 +661,7 @@
     "risk": "high",
     "masked_text": "Hi, Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0752",
@@ -669,7 +669,7 @@
     "risk": "high",
     "masked_text": "Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0753",
@@ -677,7 +677,7 @@
     "risk": "high",
     "masked_text": "Can you help? My account recovery code is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an account recovery code that can be used to bypass authentication."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0763",
@@ -709,7 +709,7 @@
     "risk": "high",
     "masked_text": "One more thing: The temporary access token is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains an authentication/access token."
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   },
   {
     "message_id": "MSG_0791",
@@ -725,7 +725,7 @@
     "risk": "medium",
     "masked_text": "One more thing: My home address is ******.",
     "recommended_action": "ask_for_confirmation",
-    "reason": "Message contains a private home address."
+    "reason": "Message contains a private home/delivery address."
   },
   {
     "message_id": "MSG_0803",
@@ -733,7 +733,7 @@
     "risk": "high",
     "masked_text": "Please note: My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0804",
@@ -749,7 +749,7 @@
     "risk": "high",
     "masked_text": "My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0813",
@@ -757,7 +757,7 @@
     "risk": "high",
     "masked_text": "FYI: My card number is ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a payment card number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0834",
@@ -773,7 +773,7 @@
     "risk": "high",
     "masked_text": "Quick update: Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
   },
   {
     "message_id": "MSG_0854",
@@ -797,6 +797,166 @@
     "risk": "high",
     "masked_text": "One more thing: Please note my bank account number ******.",
     "recommended_action": "do_not_store",
-    "reason": "Message contains a bank account number."
+    "reason": "Message contains a payment card number or bank account number."
+  },
+  {
+    "message_id": "MSG_1036",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Your new OTP is ******. It expires shortly.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains a one-time password (OTP) used for authentication."
+  },
+  {
+    "message_id": "MSG_1037",
+    "sensitivity_type": "authentication_token",
+    "risk": "high",
+    "masked_text": "Use access token ****** for the integration.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
+  },
+  {
+    "message_id": "MSG_1038",
+    "sensitivity_type": "bank_or_payment_details",
+    "risk": "high",
+    "masked_text": "The test card number is ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains a payment card number or bank account number."
+  },
+  {
+    "message_id": "MSG_1039",
+    "sensitivity_type": "private_address",
+    "risk": "medium",
+    "masked_text": "Please deliver it to ******.",
+    "recommended_action": "ask_for_confirmation",
+    "reason": "Message contains a private home/delivery address."
+  },
+  {
+    "message_id": "MSG_1040",
+    "sensitivity_type": "private_contact_detail",
+    "risk": "medium",
+    "masked_text": "Call me on ****** after the meeting.",
+    "recommended_action": "ask_for_confirmation",
+    "reason": "Message contains a private phone number."
+  },
+  {
+    "message_id": "MSG_1041",
+    "sensitivity_type": "health_information",
+    "risk": "medium",
+    "masked_text": "My private medical note mentions a ******.",
+    "recommended_action": "ask_for_confirmation",
+    "reason": "Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+  },
+  {
+    "message_id": "MSG_1042",
+    "sensitivity_type": "password",
+    "risk": "high",
+    "masked_text": "The temporary password is ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains an explicit login password."
+  },
+  {
+    "message_id": "MSG_1043",
+    "sensitivity_type": "personal_identification_number",
+    "risk": "high",
+    "masked_text": "My fictional ID number is ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains a personal identification number."
+  },
+  {
+    "message_id": "MSG_1044",
+    "sensitivity_type": "bank_or_payment_details",
+    "risk": "high",
+    "masked_text": "The sample bank account is ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains a payment card number or bank account number."
+  },
+  {
+    "message_id": "MSG_1045",
+    "sensitivity_type": "authentication_token",
+    "risk": "high",
+    "masked_text": "Save recovery code ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
+  },
+  {
+    "message_id": "MSG_1046",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Follow-up: Your new OTP is ******. It expires shortly-B.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains a one-time password (OTP) used for authentication."
+  },
+  {
+    "message_id": "MSG_1047",
+    "sensitivity_type": "authentication_token",
+    "risk": "high",
+    "masked_text": "Follow-up: Use access token ****** for the integration-B.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
+  },
+  {
+    "message_id": "MSG_1048",
+    "sensitivity_type": "bank_or_payment_details",
+    "risk": "high",
+    "masked_text": "Follow-up: The test card number is ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains a payment card number or bank account number."
+  },
+  {
+    "message_id": "MSG_1049",
+    "sensitivity_type": "private_address",
+    "risk": "medium",
+    "masked_text": "Follow-up: Please deliver it to ******.",
+    "recommended_action": "ask_for_confirmation",
+    "reason": "Message contains a private home/delivery address."
+  },
+  {
+    "message_id": "MSG_1050",
+    "sensitivity_type": "private_contact_detail",
+    "risk": "medium",
+    "masked_text": "Follow-up: Call me on ****** after the meeting-B.",
+    "recommended_action": "ask_for_confirmation",
+    "reason": "Message contains a private phone number."
+  },
+  {
+    "message_id": "MSG_1051",
+    "sensitivity_type": "health_information",
+    "risk": "medium",
+    "masked_text": "Follow-up: My private medical note mentions a ******.",
+    "recommended_action": "ask_for_confirmation",
+    "reason": "Message contains a personal health/medical detail. Not explicitly listed in the assignment's sensitive-type examples, but treated as sensitive personal data (extended category, see README)."
+  },
+  {
+    "message_id": "MSG_1052",
+    "sensitivity_type": "password",
+    "risk": "high",
+    "masked_text": "Follow-up: The temporary password is ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains an explicit login password."
+  },
+  {
+    "message_id": "MSG_1053",
+    "sensitivity_type": "personal_identification_number",
+    "risk": "high",
+    "masked_text": "Follow-up: My fictional ID number is ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains a personal identification number."
+  },
+  {
+    "message_id": "MSG_1054",
+    "sensitivity_type": "bank_or_payment_details",
+    "risk": "high",
+    "masked_text": "Follow-up: The sample bank account is ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains a payment card number or bank account number."
+  },
+  {
+    "message_id": "MSG_1055",
+    "sensitivity_type": "authentication_token",
+    "risk": "high",
+    "masked_text": "Follow-up: Save recovery code ******.",
+    "recommended_action": "do_not_store",
+    "reason": "Message contains an authentication/access token or account recovery code that can be used to bypass authentication."
   }
 ]

@@ -1,0 +1,6704 @@
+[
+  {
+    "message_id": "MSG_0001",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0043",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0275",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0435",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0479",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0603",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0646",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0697",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "high",
+    "reason": "The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0797",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0845",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0951",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0958",
+    "item_id": "EVENT_001",
+    "group_id": "GROUP_001",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0002",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0058",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0215",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0481",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0487",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0569",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0578",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0621",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0653",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0893",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0901",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0915",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0921",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0980",
+    "item_id": "TASK_001",
+    "group_id": "GROUP_002",
+    "priority": "critical",
+    "reason": "The deadline is within 2 days; a conflicting deadline was reported; the latest status is ambiguous.",
+    "signals": [
+      "deadline_within_2_days",
+      "conflicting_deadline_reported",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.64
+  },
+  {
+    "message_id": "MSG_0003",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0122",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0124",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0135",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0249",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0294",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0488",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0719",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0861",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0866",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0952",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0969",
+    "item_id": "EVENT_002",
+    "group_id": "GROUP_003",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0007",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0287",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0301",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0365",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0366",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0418",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0451",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0779",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0784",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0853",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0902",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0922",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0994",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0997",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_1009",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_1012",
+    "item_id": "TASK_002",
+    "group_id": "GROUP_004",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0010",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0265",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0339",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0536",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0614",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0620",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0667",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0743",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0754",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0809",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0903",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0923",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0990",
+    "item_id": "TASK_003",
+    "group_id": "GROUP_005",
+    "priority": "critical",
+    "reason": "The deadline has already passed; a conflicting deadline was reported; the latest status is ambiguous.",
+    "signals": [
+      "overdue",
+      "conflicting_deadline_reported",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.64
+  },
+  {
+    "message_id": "MSG_0011",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0034",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0222",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0255",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0378",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0430",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0660",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "high",
+    "reason": "The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0683",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "high",
+    "reason": "The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0841",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0847",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0953",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0955",
+    "item_id": "EVENT_003",
+    "group_id": "GROUP_006",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0017",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0063",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0072",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0083",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0178",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0232",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0515",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0553",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0638",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0740",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0904",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0917",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0919",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0920",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0924",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0975",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "critical",
+    "reason": "The deadline is within 2 days; a message explicitly marked it urgent; a conflicting deadline was reported.",
+    "signals": [
+      "deadline_within_2_days",
+      "explicitly_marked_urgent",
+      "conflicting_deadline_reported",
+      "response_required"
+    ],
+    "confidence": 0.79
+  },
+  {
+    "message_id": "MSG_0986",
+    "item_id": "TASK_004",
+    "group_id": "GROUP_007",
+    "priority": "critical",
+    "reason": "The deadline is within 2 days; a message explicitly marked it urgent; a conflicting deadline was reported; the latest status is ambiguous.",
+    "signals": [
+      "deadline_within_2_days",
+      "explicitly_marked_urgent",
+      "conflicting_deadline_reported",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "message_id": "MSG_0019",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0111",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0173",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0175",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0306",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0425",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0467",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0537",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0783",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0883",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0905",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0925",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0935",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0973",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0974",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0998",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1013",
+    "item_id": "TASK_005",
+    "group_id": "GROUP_008",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0023",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0129",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "high",
+    "reason": "The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0209",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0458",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0484",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0584",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0631",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0744",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0822",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0871",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0954",
+    "item_id": "EVENT_004",
+    "group_id": "GROUP_009",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0027",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0171",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline is today.",
+    "signals": [
+      "deadline_today",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0195",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0220",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0314",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0335",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0480",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0527",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0557",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0617",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0906",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0926",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0972",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "critical",
+    "reason": "The deadline is today; a conflicting deadline was reported; the latest status is ambiguous.",
+    "signals": [
+      "deadline_today",
+      "conflicting_deadline_reported",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.64
+  },
+  {
+    "message_id": "MSG_0976",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline is within a week; a conflicting deadline was reported; the latest status is ambiguous.",
+    "signals": [
+      "deadline_within_a_week",
+      "conflicting_deadline_reported",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.64
+  },
+  {
+    "message_id": "MSG_0982",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "high",
+    "reason": "The deadline is within a week; a conflicting deadline was reported; the latest status is ambiguous.",
+    "signals": [
+      "deadline_within_a_week",
+      "conflicting_deadline_reported",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.64
+  },
+  {
+    "message_id": "MSG_1002",
+    "item_id": "TASK_006",
+    "group_id": "GROUP_010",
+    "priority": "critical",
+    "reason": "The deadline is within 2 days; a conflicting deadline was reported; the latest status is ambiguous.",
+    "signals": [
+      "deadline_within_2_days",
+      "conflicting_deadline_reported",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.64
+  },
+  {
+    "message_id": "MSG_0028",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0065",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0101",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0309",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0368",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0394",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0605",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0799",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0829",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0862",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0907",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0918",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0927",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0933",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1000",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1015",
+    "item_id": "TASK_007",
+    "group_id": "GROUP_011",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0031",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0038",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0139",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline is today.",
+    "signals": [
+      "deadline_today",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0300",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0412",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0622",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0656",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0708",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0736",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0884",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0908",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0911",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0928",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0942",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0996",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1011",
+    "item_id": "TASK_008",
+    "group_id": "GROUP_012",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0032",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0269",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0345",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0498",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0554",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0633",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0640",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0670",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0688",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0761",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0909",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0929",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0991",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_1006",
+    "item_id": "TASK_009",
+    "group_id": "GROUP_013",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0035",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0045",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0060",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0331",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0398",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0420",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0546",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0551",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0585",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0624",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0910",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0913",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0916",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0930",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_1004",
+    "item_id": "TASK_010",
+    "group_id": "GROUP_014",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0036",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0162",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0223",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0311",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0508",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0549",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0623",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0706",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0793",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0873",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0956",
+    "item_id": "EVENT_006",
+    "group_id": "GROUP_015",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0037",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0054",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0098",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0213",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0217",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0462",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0493",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0635",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0840",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0886",
+    "item_id": "EVENT_007",
+    "group_id": "GROUP_016",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0041",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0110",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0190",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0198",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0377",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0457",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0524",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0559",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0580",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0816",
+    "item_id": "TASK_012",
+    "group_id": "GROUP_017",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0042",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0055",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0258",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0302",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0356",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0456",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0588",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0788",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0868",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0878",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0957",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0961",
+    "item_id": "EVENT_008",
+    "group_id": "GROUP_018",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0044",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0114",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0145",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0245",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0396",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0422",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0577",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0694",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0814",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0898",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0912",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0938",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0944",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0987",
+    "item_id": "TASK_013",
+    "group_id": "GROUP_019",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0046",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0089",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0115",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0144",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0150",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0163",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0251",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0283",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0503",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0757",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0914",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0932",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0939",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0943",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0946",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0950",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0988",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0993",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1008",
+    "item_id": "TASK_015",
+    "group_id": "GROUP_020",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0049",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0077",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0138",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0338",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0342",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0423",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0606",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0619",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0707",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0759",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0959",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0965",
+    "item_id": "EVENT_010",
+    "group_id": "GROUP_021",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0051",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0127",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0405",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0465",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0511",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0592",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "high",
+    "reason": "The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0601",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "high",
+    "reason": "The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0637",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0673",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0711",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0960",
+    "item_id": "EVENT_011",
+    "group_id": "GROUP_022",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0056",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0121",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0193",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0410",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0438",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0495",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0634",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0717",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0811",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0827",
+    "item_id": "TASK_016",
+    "group_id": "GROUP_023",
+    "priority": "low",
+    "reason": "No concrete deadline is known.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "response_required"
+    ],
+    "confidence": 0.57
+  },
+  {
+    "message_id": "MSG_0062",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0067",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0168",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0244",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0330",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0449",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0628",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0745",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0747",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0895",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0962",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0964",
+    "item_id": "EVENT_014",
+    "group_id": "GROUP_024",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0066",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0131",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0151",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0216",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0357",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0382",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0427",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0674",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0693",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0792",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0963",
+    "item_id": "EVENT_015",
+    "group_id": "GROUP_025",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0088",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0153",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0210",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0221",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0289",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "high",
+    "reason": "The deadline is today.",
+    "signals": [
+      "deadline_today",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0468",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0574",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0602",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0618",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0826",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0931",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0947",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0979",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0983",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0995",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1010",
+    "item_id": "TASK_023",
+    "group_id": "GROUP_026",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0097",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0123",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0154",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0156",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0184",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0201",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0590",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0789",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0821",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0823",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0966",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0970",
+    "item_id": "EVENT_018",
+    "group_id": "GROUP_027",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0100",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0169",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0177",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0218",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0268",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "low",
+    "reason": "The deadline is more than a week out.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0424",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0643",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0645",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0664",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0668",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0967",
+    "item_id": "EVENT_020",
+    "group_id": "GROUP_028",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0102",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0112",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0231",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0307",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0317",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0407",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0512",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0662",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0725",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0780",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0934",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0936",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0985",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0999",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1003",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1014",
+    "item_id": "TASK_026",
+    "group_id": "GROUP_029",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0103",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0282",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0316",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0359",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0413",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0445",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0579",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0630",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0831",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0837",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0968",
+    "item_id": "EVENT_021",
+    "group_id": "GROUP_030",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0113",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0136",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0147",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0203",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0361",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0513",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0561",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0690",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0850",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0851",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0937",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0941",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0945",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0977",
+    "item_id": "TASK_030",
+    "group_id": "GROUP_031",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0119",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0219",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0358",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0473",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0485",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0531",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0722",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0776",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0815",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0870",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0940",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0981",
+    "item_id": "TASK_033",
+    "group_id": "GROUP_032",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0133",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0207",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0278",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0350",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0354",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0444",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0502",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0526",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0770",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0801",
+    "item_id": "EVENT_028",
+    "group_id": "GROUP_033",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0152",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0227",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0235",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0240",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0523",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0525",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0696",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0768",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0875",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0888",
+    "item_id": "TASK_041",
+    "group_id": "GROUP_034",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0157",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "medium",
+    "reason": "The deadline is within 2 days.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0226",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "high",
+    "reason": "The deadline is today.",
+    "signals": [
+      "deadline_today",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0360",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0417",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0455",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0483",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0517",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0607",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0612",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0658",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0948",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0984",
+    "item_id": "TASK_043",
+    "group_id": "GROUP_035",
+    "priority": "low",
+    "reason": "Item status is \"cancelled\" as of this message — no further action is needed.",
+    "signals": [
+      "status_cancelled"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0160",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline is today.",
+    "signals": [
+      "deadline_today",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0208",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0369",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0379",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0530",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0547",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0552",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0639",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0730",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0824",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0949",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0978",
+    "item_id": "TASK_044",
+    "group_id": "GROUP_036",
+    "priority": "low",
+    "reason": "Item status is \"completed\" as of this message — no further action is needed.",
+    "signals": [
+      "status_completed"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_0170",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline is today.",
+    "signals": [
+      "deadline_today",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0280",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0556",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0566",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0652",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0716",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0720",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0787",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0795",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0819",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0971",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "critical",
+    "reason": "The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.",
+    "signals": [
+      "overdue",
+      "explicitly_marked_urgent",
+      "conflicting_deadline_reported",
+      "response_required"
+    ],
+    "confidence": 0.79
+  },
+  {
+    "message_id": "MSG_0992",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "critical",
+    "reason": "The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.",
+    "signals": [
+      "overdue",
+      "explicitly_marked_urgent",
+      "conflicting_deadline_reported",
+      "response_required"
+    ],
+    "confidence": 0.79
+  },
+  {
+    "message_id": "MSG_1007",
+    "item_id": "TASK_046",
+    "group_id": "GROUP_037",
+    "priority": "critical",
+    "reason": "The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.",
+    "signals": [
+      "overdue",
+      "explicitly_marked_urgent",
+      "conflicting_deadline_reported",
+      "response_required"
+    ],
+    "confidence": 0.79
+  },
+  {
+    "message_id": "MSG_0252",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0312",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0334",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0340",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0401",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0615",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0657",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0659",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0864",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0865",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "high",
+    "reason": "The deadline has already passed.",
+    "signals": [
+      "overdue",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0989",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "critical",
+    "reason": "The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.",
+    "signals": [
+      "overdue",
+      "explicitly_marked_urgent",
+      "conflicting_deadline_reported",
+      "response_required"
+    ],
+    "confidence": 0.79
+  },
+  {
+    "message_id": "MSG_1001",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "critical",
+    "reason": "The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.",
+    "signals": [
+      "overdue",
+      "explicitly_marked_urgent",
+      "conflicting_deadline_reported",
+      "response_required"
+    ],
+    "confidence": 0.79
+  },
+  {
+    "message_id": "MSG_1005",
+    "item_id": "TASK_070",
+    "group_id": "GROUP_038",
+    "priority": "critical",
+    "reason": "The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.",
+    "signals": [
+      "overdue",
+      "explicitly_marked_urgent",
+      "conflicting_deadline_reported",
+      "response_required"
+    ],
+    "confidence": 0.79
+  },
+  {
+    "message_id": "MSG_0271",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0293",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0363",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0414",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "medium",
+    "reason": "The deadline is within a week.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required"
+    ],
+    "confidence": 0.67
+  },
+  {
+    "message_id": "MSG_0565",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "high",
+    "reason": "The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0616",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0800",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0810",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0849",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0894",
+    "item_id": "EVENT_053",
+    "group_id": "GROUP_039",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0310",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0323",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0386",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0393",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0486",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0492",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0505",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0654",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0775",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0859",
+    "item_id": "TASK_082",
+    "group_id": "GROUP_040",
+    "priority": "medium",
+    "reason": "No concrete deadline is known; the latest status is ambiguous.",
+    "signals": [
+      "deadline_unresolved_or_unknown",
+      "status_unclear",
+      "response_required"
+    ],
+    "confidence": 0.48
+  },
+  {
+    "message_id": "MSG_0327",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0384",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0450",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0519",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0600",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0798",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0860",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0877",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0882",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_0900",
+    "item_id": "EVENT_062",
+    "group_id": "GROUP_041",
+    "priority": "high",
+    "reason": "The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "overdue",
+      "response_required",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1016",
+    "item_id": "EVENT_171",
+    "group_id": "GROUP_042",
+    "priority": "critical",
+    "reason": "The deadline is today; it was assigned by project lead; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "assigned_by_project_lead",
+      "time_sensitive_meeting_category"
+    ],
+    "confidence": 0.79
+  },
+  {
+    "message_id": "MSG_1026",
+    "item_id": "EVENT_171",
+    "group_id": "GROUP_042",
+    "priority": "high",
+    "reason": "The deadline is today; it was assigned by mentor.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "assigned_by_mentor"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1017",
+    "item_id": "TASK_241",
+    "group_id": "GROUP_043",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it was assigned by mentor.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "assigned_by_mentor"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1027",
+    "item_id": "TASK_241",
+    "group_id": "GROUP_043",
+    "priority": "high",
+    "reason": "The deadline is today; it was assigned by hr team.",
+    "signals": [
+      "deadline_today",
+      "response_required",
+      "assigned_by_hr_team"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1018",
+    "item_id": "TASK_242",
+    "group_id": "GROUP_044",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it was assigned by hr team.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "assigned_by_hr_team"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1028",
+    "item_id": "TASK_242",
+    "group_id": "GROUP_044",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it was assigned by project lead.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "assigned_by_project_lead"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1019",
+    "item_id": "TASK_243",
+    "group_id": "GROUP_045",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by project lead.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_project_lead"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1029",
+    "item_id": "TASK_243",
+    "group_id": "GROUP_045",
+    "priority": "high",
+    "reason": "The deadline is within 2 days; it was assigned by mentor.",
+    "signals": [
+      "deadline_within_2_days",
+      "response_required",
+      "assigned_by_mentor"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1020",
+    "item_id": "EVENT_172",
+    "group_id": "GROUP_046",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by mentor.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_mentor"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1030",
+    "item_id": "EVENT_172",
+    "group_id": "GROUP_046",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by hr team.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_hr_team"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1021",
+    "item_id": "TASK_244",
+    "group_id": "GROUP_047",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by hr team.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_hr_team"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1031",
+    "item_id": "TASK_244",
+    "group_id": "GROUP_047",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by project lead.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_project_lead"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1022",
+    "item_id": "TASK_245",
+    "group_id": "GROUP_048",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by project lead.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_project_lead"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1032",
+    "item_id": "TASK_245",
+    "group_id": "GROUP_048",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by mentor.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_mentor"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1023",
+    "item_id": "TASK_246",
+    "group_id": "GROUP_049",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by mentor.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_mentor"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1033",
+    "item_id": "TASK_246",
+    "group_id": "GROUP_049",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by hr team.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_hr_team"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1024",
+    "item_id": "EVENT_173",
+    "group_id": "GROUP_050",
+    "priority": "medium",
+    "reason": "The deadline is more than a week out; it was assigned by hr team.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required",
+      "assigned_by_hr_team"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1034",
+    "item_id": "EVENT_173",
+    "group_id": "GROUP_050",
+    "priority": "medium",
+    "reason": "The deadline is within a week; it was assigned by project lead.",
+    "signals": [
+      "deadline_within_a_week",
+      "response_required",
+      "assigned_by_project_lead"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1025",
+    "item_id": "TASK_247",
+    "group_id": "GROUP_051",
+    "priority": "medium",
+    "reason": "The deadline is more than a week out; it was assigned by project lead.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required",
+      "assigned_by_project_lead"
+    ],
+    "confidence": 0.73
+  },
+  {
+    "message_id": "MSG_1035",
+    "item_id": "TASK_247",
+    "group_id": "GROUP_051",
+    "priority": "medium",
+    "reason": "The deadline is more than a week out; it was assigned by mentor.",
+    "signals": [
+      "deadline_more_than_a_week_out",
+      "response_required",
+      "assigned_by_mentor"
+    ],
+    "confidence": 0.73
+  }
+]

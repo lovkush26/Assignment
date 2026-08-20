@@ -5398,5 +5398,1085 @@
     "category": "meeting_or_event",
     "confidence": 0.93,
     "reason": "Describes a scheduled meeting/event with a date and time."
+  },
+  {
+    "message_id": "MSG_0901",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Review the privacy checklist\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0902",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Reply to the client email\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0903",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Pay the electricity bill\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0904",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Renew the library book\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0905",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Review the model results\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0906",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Confirm the interview slot\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0907",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Email the signed document\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0908",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Update the project tracker\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0909",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Upload the assignment\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0910",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Complete the onboarding form\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0911",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Update the project tracker\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0912",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Complete the Python exercise\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0913",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Complete the onboarding form\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0914",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Call the service centre\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0915",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Review the privacy checklist\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0916",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Complete the onboarding form\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0917",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Renew the library book\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0918",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Email the signed document\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0919",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Renew the library book\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0920",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Renew the library book\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0921",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Review the privacy checklist\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0922",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Reply to the client email\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0923",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Pay the electricity bill\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0924",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Renew the library book\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0925",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Review the model results\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0926",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Confirm the interview slot\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0927",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Email the signed document\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0928",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Update the project tracker\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0929",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Upload the assignment\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0930",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Complete the onboarding form\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0931",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Finish the test cases\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0932",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Call the service centre\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0933",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Email the signed document\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0934",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Send the revised presentation\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0935",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Review the model results\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0936",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Send the revised presentation\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0937",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Prepare the demo video\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0938",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Complete the Python exercise\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0939",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Call the service centre\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0940",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Send the expense receipt\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0941",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Update: prepare the demo video\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0942",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Update the project tracker\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0943",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Update: call the service centre\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0944",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Complete the Python exercise\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0945",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Update: prepare the demo video\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0946",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Call the service centre\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0947",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Update: finish the test cases\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0948",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Verify the dataset labels\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0949",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Submit the weekly report\" is reported completed."
+  },
+  {
+    "message_id": "MSG_0950",
+    "category": "general_information",
+    "confidence": 0.95,
+    "reason": "\"Call the service centre\" is reported cancelled/no longer required."
+  },
+  {
+    "message_id": "MSG_0951",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-09-29 at 10:00."
+  },
+  {
+    "message_id": "MSG_0952",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-09-30 at 11:00."
+  },
+  {
+    "message_id": "MSG_0953",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-01 at 12:00."
+  },
+  {
+    "message_id": "MSG_0954",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-02 at 13:00."
+  },
+  {
+    "message_id": "MSG_0955",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-03 at 14:00."
+  },
+  {
+    "message_id": "MSG_0956",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-04 at 15:00."
+  },
+  {
+    "message_id": "MSG_0957",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-05 at 16:00."
+  },
+  {
+    "message_id": "MSG_0958",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-06 at 10:00."
+  },
+  {
+    "message_id": "MSG_0959",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-07 at 11:00."
+  },
+  {
+    "message_id": "MSG_0960",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-08 at 12:00."
+  },
+  {
+    "message_id": "MSG_0961",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-09 at 13:00."
+  },
+  {
+    "message_id": "MSG_0962",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-10 at 14:00."
+  },
+  {
+    "message_id": "MSG_0963",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-09-29 at 15:00."
+  },
+  {
+    "message_id": "MSG_0964",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-09-30 at 16:00."
+  },
+  {
+    "message_id": "MSG_0965",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-01 at 10:00."
+  },
+  {
+    "message_id": "MSG_0966",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-02 at 11:00."
+  },
+  {
+    "message_id": "MSG_0967",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-03 at 12:00."
+  },
+  {
+    "message_id": "MSG_0968",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-04 at 13:00."
+  },
+  {
+    "message_id": "MSG_0969",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-05 at 14:00."
+  },
+  {
+    "message_id": "MSG_0970",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "Message states the event was moved to 2026-10-06 at 15:00."
+  },
+  {
+    "message_id": "MSG_0971",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-09-27 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0972",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-09-28 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0973",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-09-29 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0974",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-09-30 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0975",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-10-01 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0976",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-10-02 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0977",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-09-27 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0978",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-09-28 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0979",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-09-29 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0980",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-09-30 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0981",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-10-01 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0982",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-10-02 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0983",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-09-27 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0984",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-09-28 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0985",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-09-29 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0986",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-09-30 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0987",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-10-01 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0988",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-10-02 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0989",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "Message moves the deadline earlier to 2026-09-27 and explicitly flags it as urgent."
+  },
+  {
+    "message_id": "MSG_0990",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "Message states a due date of 2026-09-28 while explicitly noting \"the earlier message listed another date\" — a conflicting deadline."
+  },
+  {
+    "message_id": "MSG_0991",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"The assignment\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0992",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Share the meeting notes\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0993",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Call the service centre\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0994",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Reply to the client email\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0995",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Finish the test cases\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0996",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Update the project tracker\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0997",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Reply to the client email\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0998",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"The model results\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_0999",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"The revised presentation\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1000",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Email the signed document\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1001",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Back up the project files\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1002",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Confirm the interview slot\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1003",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"The revised presentation\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1004",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"The onboarding form\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1005",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Back up the project files\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1006",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"The assignment\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1007",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Share the meeting notes\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1008",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Call the service centre\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1009",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Reply to the client email\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1010",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Finish the test cases\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1011",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Update the project tracker\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1012",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Reply to the client email\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1013",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"The model results\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1014",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"The revised presentation\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1015",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "Follow-up/status-check request about \"Email the signed document\" — no new status stated by this message itself."
+  },
+  {
+    "message_id": "MSG_1016",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "New event explicitly scheduled for 2026-09-30 at 10:00."
+  },
+  {
+    "message_id": "MSG_1017",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-01."
+  },
+  {
+    "message_id": "MSG_1018",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-02."
+  },
+  {
+    "message_id": "MSG_1019",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-03."
+  },
+  {
+    "message_id": "MSG_1020",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "New event explicitly scheduled for 2026-10-04 at 14:00."
+  },
+  {
+    "message_id": "MSG_1021",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-05."
+  },
+  {
+    "message_id": "MSG_1022",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-06."
+  },
+  {
+    "message_id": "MSG_1023",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-07."
+  },
+  {
+    "message_id": "MSG_1024",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "New event explicitly scheduled for 2026-10-08 at 12:00."
+  },
+  {
+    "message_id": "MSG_1025",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-09."
+  },
+  {
+    "message_id": "MSG_1026",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-09-30."
+  },
+  {
+    "message_id": "MSG_1027",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-01."
+  },
+  {
+    "message_id": "MSG_1028",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "New event explicitly scheduled for 2026-10-02 at 10:00."
+  },
+  {
+    "message_id": "MSG_1029",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-03."
+  },
+  {
+    "message_id": "MSG_1030",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-04."
+  },
+  {
+    "message_id": "MSG_1031",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-05."
+  },
+  {
+    "message_id": "MSG_1032",
+    "category": "meeting_or_event",
+    "confidence": 0.95,
+    "reason": "New event explicitly scheduled for 2026-10-06 at 14:00."
+  },
+  {
+    "message_id": "MSG_1033",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-07."
+  },
+  {
+    "message_id": "MSG_1034",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-08."
+  },
+  {
+    "message_id": "MSG_1035",
+    "category": "action_required",
+    "confidence": 0.95,
+    "reason": "New task explicitly requested with a deadline of 2026-10-09."
+  },
+  {
+    "message_id": "MSG_1036",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (one_time_password)."
+  },
+  {
+    "message_id": "MSG_1037",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (authentication_token)."
+  },
+  {
+    "message_id": "MSG_1038",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (bank_or_payment_details)."
+  },
+  {
+    "message_id": "MSG_1039",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (private_address)."
+  },
+  {
+    "message_id": "MSG_1040",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (private_contact_detail)."
+  },
+  {
+    "message_id": "MSG_1041",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (health_information)."
+  },
+  {
+    "message_id": "MSG_1042",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (password)."
+  },
+  {
+    "message_id": "MSG_1043",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (personal_identification_number)."
+  },
+  {
+    "message_id": "MSG_1044",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (bank_or_payment_details)."
+  },
+  {
+    "message_id": "MSG_1045",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (authentication_token)."
+  },
+  {
+    "message_id": "MSG_1046",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (one_time_password)."
+  },
+  {
+    "message_id": "MSG_1047",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (authentication_token)."
+  },
+  {
+    "message_id": "MSG_1048",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (bank_or_payment_details)."
+  },
+  {
+    "message_id": "MSG_1049",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (private_address)."
+  },
+  {
+    "message_id": "MSG_1050",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (private_contact_detail)."
+  },
+  {
+    "message_id": "MSG_1051",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (health_information)."
+  },
+  {
+    "message_id": "MSG_1052",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (password)."
+  },
+  {
+    "message_id": "MSG_1053",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (personal_identification_number)."
+  },
+  {
+    "message_id": "MSG_1054",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (bank_or_payment_details)."
+  },
+  {
+    "message_id": "MSG_1055",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Message contains a detected sensitive value (authentication_token)."
+  },
+  {
+    "message_id": "MSG_1056",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1057",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1058",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1059",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1060",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1061",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1062",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1063",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1064",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1065",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1066",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1067",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1068",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1069",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1070",
+    "category": "general_information",
+    "confidence": 0.4,
+    "reason": "Hedged/uncertain language with no concrete subject named — cannot be linked to a specific task/event without guessing."
+  },
+  {
+    "message_id": "MSG_1071",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+  },
+  {
+    "message_id": "MSG_1072",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+  },
+  {
+    "message_id": "MSG_1073",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+  },
+  {
+    "message_id": "MSG_1074",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+  },
+  {
+    "message_id": "MSG_1075",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+  },
+  {
+    "message_id": "MSG_1076",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+  },
+  {
+    "message_id": "MSG_1077",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+  },
+  {
+    "message_id": "MSG_1078",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+  },
+  {
+    "message_id": "MSG_1079",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
+  },
+  {
+    "message_id": "MSG_1080",
+    "category": "general_information",
+    "confidence": 0.65,
+    "reason": "Plain informational/status statement; no action, schedule, personal, promotional, or sensitive signal detected."
   }
 ]

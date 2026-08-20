@@ -1,0 +1,546 @@
+message_id,item_id,group_id,priority,reason,signals,confidence
+MSG_0001,EVENT_001,GROUP_001,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0043,EVENT_001,GROUP_001,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0275,EVENT_001,GROUP_001,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0435,EVENT_001,GROUP_001,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0479,EVENT_001,GROUP_001,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0603,EVENT_001,GROUP_001,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0646,EVENT_001,GROUP_001,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0697,EVENT_001,GROUP_001,high,"The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_today; response_required; time_sensitive_meeting_category,0.73
+MSG_0797,EVENT_001,GROUP_001,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0845,EVENT_001,GROUP_001,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0951,EVENT_001,GROUP_001,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0958,EVENT_001,GROUP_001,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0002,TASK_001,GROUP_002,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0058,TASK_001,GROUP_002,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0215,TASK_001,GROUP_002,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0481,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0487,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0569,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0578,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0621,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0653,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0893,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0901,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0915,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0921,TASK_001,GROUP_002,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0980,TASK_001,GROUP_002,critical,The deadline is within 2 days; a conflicting deadline was reported; the latest status is ambiguous.,deadline_within_2_days; conflicting_deadline_reported; status_unclear; response_required,0.64
+MSG_0003,EVENT_002,GROUP_003,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0122,EVENT_002,GROUP_003,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0124,EVENT_002,GROUP_003,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0135,EVENT_002,GROUP_003,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0249,EVENT_002,GROUP_003,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0294,EVENT_002,GROUP_003,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0488,EVENT_002,GROUP_003,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0719,EVENT_002,GROUP_003,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0861,EVENT_002,GROUP_003,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0866,EVENT_002,GROUP_003,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0952,EVENT_002,GROUP_003,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0969,EVENT_002,GROUP_003,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0007,TASK_002,GROUP_004,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0287,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0301,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0365,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0366,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0418,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0451,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0779,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0784,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0853,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0902,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0922,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0994,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0997,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_1009,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_1012,TASK_002,GROUP_004,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0010,TASK_003,GROUP_005,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0265,TASK_003,GROUP_005,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0339,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0536,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0614,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0620,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0667,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0743,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0754,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0809,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0903,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0923,TASK_003,GROUP_005,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0990,TASK_003,GROUP_005,critical,The deadline has already passed; a conflicting deadline was reported; the latest status is ambiguous.,overdue; conflicting_deadline_reported; status_unclear; response_required,0.64
+MSG_0011,EVENT_003,GROUP_006,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0034,EVENT_003,GROUP_006,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0222,EVENT_003,GROUP_006,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0255,EVENT_003,GROUP_006,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0378,EVENT_003,GROUP_006,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0430,EVENT_003,GROUP_006,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0660,EVENT_003,GROUP_006,high,"The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_today; response_required; time_sensitive_meeting_category,0.73
+MSG_0683,EVENT_003,GROUP_006,high,"The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_today; response_required; time_sensitive_meeting_category,0.73
+MSG_0841,EVENT_003,GROUP_006,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0847,EVENT_003,GROUP_006,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0953,EVENT_003,GROUP_006,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0955,EVENT_003,GROUP_006,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0017,TASK_004,GROUP_007,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0063,TASK_004,GROUP_007,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0072,TASK_004,GROUP_007,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0083,TASK_004,GROUP_007,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0178,TASK_004,GROUP_007,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0232,TASK_004,GROUP_007,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0515,TASK_004,GROUP_007,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0553,TASK_004,GROUP_007,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0638,TASK_004,GROUP_007,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0740,TASK_004,GROUP_007,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0904,TASK_004,GROUP_007,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0917,TASK_004,GROUP_007,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0919,TASK_004,GROUP_007,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0920,TASK_004,GROUP_007,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0924,TASK_004,GROUP_007,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0975,TASK_004,GROUP_007,critical,The deadline is within 2 days; a message explicitly marked it urgent; a conflicting deadline was reported.,deadline_within_2_days; explicitly_marked_urgent; conflicting_deadline_reported; response_required,0.79
+MSG_0986,TASK_004,GROUP_007,critical,The deadline is within 2 days; a message explicitly marked it urgent; a conflicting deadline was reported; the latest status is ambiguous.,deadline_within_2_days; explicitly_marked_urgent; conflicting_deadline_reported; status_unclear; response_required,0.7
+MSG_0019,TASK_005,GROUP_008,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0111,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0173,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0175,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0306,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0425,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0467,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0537,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0783,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0883,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0905,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0925,TASK_005,GROUP_008,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0935,TASK_005,GROUP_008,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0973,TASK_005,GROUP_008,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0974,TASK_005,GROUP_008,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0998,TASK_005,GROUP_008,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_1013,TASK_005,GROUP_008,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0023,EVENT_004,GROUP_009,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0129,EVENT_004,GROUP_009,high,"The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_today; response_required; time_sensitive_meeting_category,0.73
+MSG_0209,EVENT_004,GROUP_009,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0458,EVENT_004,GROUP_009,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0484,EVENT_004,GROUP_009,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0584,EVENT_004,GROUP_009,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0631,EVENT_004,GROUP_009,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0744,EVENT_004,GROUP_009,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0822,EVENT_004,GROUP_009,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0871,EVENT_004,GROUP_009,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0954,EVENT_004,GROUP_009,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0027,TASK_006,GROUP_010,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0171,TASK_006,GROUP_010,high,The deadline is today.,deadline_today; response_required,0.67
+MSG_0195,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0220,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0314,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0335,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0480,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0527,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0557,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0617,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0906,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0926,TASK_006,GROUP_010,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0972,TASK_006,GROUP_010,critical,The deadline is today; a conflicting deadline was reported; the latest status is ambiguous.,deadline_today; conflicting_deadline_reported; status_unclear; response_required,0.64
+MSG_0976,TASK_006,GROUP_010,high,The deadline is within a week; a conflicting deadline was reported; the latest status is ambiguous.,deadline_within_a_week; conflicting_deadline_reported; status_unclear; response_required,0.64
+MSG_0982,TASK_006,GROUP_010,high,The deadline is within a week; a conflicting deadline was reported; the latest status is ambiguous.,deadline_within_a_week; conflicting_deadline_reported; status_unclear; response_required,0.64
+MSG_1002,TASK_006,GROUP_010,critical,The deadline is within 2 days; a conflicting deadline was reported; the latest status is ambiguous.,deadline_within_2_days; conflicting_deadline_reported; status_unclear; response_required,0.64
+MSG_0028,TASK_007,GROUP_011,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0065,TASK_007,GROUP_011,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0101,TASK_007,GROUP_011,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0309,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0368,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0394,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0605,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0799,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0829,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0862,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0907,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0918,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0927,TASK_007,GROUP_011,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0933,TASK_007,GROUP_011,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_1000,TASK_007,GROUP_011,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_1015,TASK_007,GROUP_011,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0031,TASK_008,GROUP_012,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0038,TASK_008,GROUP_012,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0139,TASK_008,GROUP_012,high,The deadline is today.,deadline_today; response_required,0.67
+MSG_0300,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0412,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0622,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0656,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0708,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0736,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0884,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0908,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0911,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0928,TASK_008,GROUP_012,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0942,TASK_008,GROUP_012,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0996,TASK_008,GROUP_012,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_1011,TASK_008,GROUP_012,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0032,TASK_009,GROUP_013,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0269,TASK_009,GROUP_013,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0345,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0498,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0554,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0633,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0640,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0670,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0688,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0761,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0909,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0929,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0991,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_1006,TASK_009,GROUP_013,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0035,TASK_010,GROUP_014,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0045,TASK_010,GROUP_014,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0060,TASK_010,GROUP_014,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0331,TASK_010,GROUP_014,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0398,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0420,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0546,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0551,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0585,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0624,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0910,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0913,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0916,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0930,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_1004,TASK_010,GROUP_014,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0036,EVENT_006,GROUP_015,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0162,EVENT_006,GROUP_015,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0223,EVENT_006,GROUP_015,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0311,EVENT_006,GROUP_015,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0508,EVENT_006,GROUP_015,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0549,EVENT_006,GROUP_015,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0623,EVENT_006,GROUP_015,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0706,EVENT_006,GROUP_015,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0793,EVENT_006,GROUP_015,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0873,EVENT_006,GROUP_015,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0956,EVENT_006,GROUP_015,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0037,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0054,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0098,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0213,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0217,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0462,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0493,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0635,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0840,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0886,EVENT_007,GROUP_016,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0041,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0110,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0190,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0198,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0377,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0457,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0524,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0559,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0580,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0816,TASK_012,GROUP_017,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0042,EVENT_008,GROUP_018,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0055,EVENT_008,GROUP_018,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0258,EVENT_008,GROUP_018,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0302,EVENT_008,GROUP_018,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0356,EVENT_008,GROUP_018,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0456,EVENT_008,GROUP_018,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0588,EVENT_008,GROUP_018,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0788,EVENT_008,GROUP_018,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0868,EVENT_008,GROUP_018,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0878,EVENT_008,GROUP_018,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0957,EVENT_008,GROUP_018,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0961,EVENT_008,GROUP_018,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0044,TASK_013,GROUP_019,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0114,TASK_013,GROUP_019,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0145,TASK_013,GROUP_019,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0245,TASK_013,GROUP_019,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0396,TASK_013,GROUP_019,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0422,TASK_013,GROUP_019,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0577,TASK_013,GROUP_019,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0694,TASK_013,GROUP_019,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0814,TASK_013,GROUP_019,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0898,TASK_013,GROUP_019,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0912,TASK_013,GROUP_019,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0938,TASK_013,GROUP_019,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0944,TASK_013,GROUP_019,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0987,TASK_013,GROUP_019,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0046,TASK_015,GROUP_020,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0089,TASK_015,GROUP_020,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0115,TASK_015,GROUP_020,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0144,TASK_015,GROUP_020,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0150,TASK_015,GROUP_020,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0163,TASK_015,GROUP_020,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0251,TASK_015,GROUP_020,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0283,TASK_015,GROUP_020,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0503,TASK_015,GROUP_020,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0757,TASK_015,GROUP_020,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0914,TASK_015,GROUP_020,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0932,TASK_015,GROUP_020,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0939,TASK_015,GROUP_020,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0943,TASK_015,GROUP_020,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0946,TASK_015,GROUP_020,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0950,TASK_015,GROUP_020,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0988,TASK_015,GROUP_020,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0993,TASK_015,GROUP_020,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_1008,TASK_015,GROUP_020,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0049,EVENT_010,GROUP_021,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0077,EVENT_010,GROUP_021,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0138,EVENT_010,GROUP_021,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0338,EVENT_010,GROUP_021,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0342,EVENT_010,GROUP_021,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0423,EVENT_010,GROUP_021,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0606,EVENT_010,GROUP_021,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0619,EVENT_010,GROUP_021,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0707,EVENT_010,GROUP_021,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0759,EVENT_010,GROUP_021,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0959,EVENT_010,GROUP_021,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0965,EVENT_010,GROUP_021,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0051,EVENT_011,GROUP_022,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0127,EVENT_011,GROUP_022,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0405,EVENT_011,GROUP_022,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0465,EVENT_011,GROUP_022,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0511,EVENT_011,GROUP_022,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0592,EVENT_011,GROUP_022,high,"The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_today; response_required; time_sensitive_meeting_category,0.73
+MSG_0601,EVENT_011,GROUP_022,high,"The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_today; response_required; time_sensitive_meeting_category,0.73
+MSG_0637,EVENT_011,GROUP_022,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0673,EVENT_011,GROUP_022,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0711,EVENT_011,GROUP_022,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0960,EVENT_011,GROUP_022,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0056,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0121,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0193,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0410,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0438,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0495,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0634,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0717,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0811,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0827,TASK_016,GROUP_023,low,No concrete deadline is known.,deadline_unresolved_or_unknown; response_required,0.57
+MSG_0062,EVENT_014,GROUP_024,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0067,EVENT_014,GROUP_024,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0168,EVENT_014,GROUP_024,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0244,EVENT_014,GROUP_024,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0330,EVENT_014,GROUP_024,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0449,EVENT_014,GROUP_024,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0628,EVENT_014,GROUP_024,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0745,EVENT_014,GROUP_024,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0747,EVENT_014,GROUP_024,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0895,EVENT_014,GROUP_024,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0962,EVENT_014,GROUP_024,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0964,EVENT_014,GROUP_024,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0066,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0131,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0151,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0216,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0357,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0382,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0427,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0674,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0693,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0792,EVENT_015,GROUP_025,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0963,EVENT_015,GROUP_025,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0088,TASK_023,GROUP_026,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0153,TASK_023,GROUP_026,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0210,TASK_023,GROUP_026,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0221,TASK_023,GROUP_026,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0289,TASK_023,GROUP_026,high,The deadline is today.,deadline_today; response_required,0.67
+MSG_0468,TASK_023,GROUP_026,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0574,TASK_023,GROUP_026,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0602,TASK_023,GROUP_026,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0618,TASK_023,GROUP_026,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0826,TASK_023,GROUP_026,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0931,TASK_023,GROUP_026,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0947,TASK_023,GROUP_026,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0979,TASK_023,GROUP_026,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0983,TASK_023,GROUP_026,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0995,TASK_023,GROUP_026,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_1010,TASK_023,GROUP_026,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0097,EVENT_018,GROUP_027,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0123,EVENT_018,GROUP_027,high,"The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_today; response_required; time_sensitive_meeting_category,0.73
+MSG_0154,EVENT_018,GROUP_027,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0156,EVENT_018,GROUP_027,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0184,EVENT_018,GROUP_027,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0201,EVENT_018,GROUP_027,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0590,EVENT_018,GROUP_027,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0789,EVENT_018,GROUP_027,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0821,EVENT_018,GROUP_027,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0823,EVENT_018,GROUP_027,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0966,EVENT_018,GROUP_027,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0970,EVENT_018,GROUP_027,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0100,EVENT_020,GROUP_028,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0169,EVENT_020,GROUP_028,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0177,EVENT_020,GROUP_028,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0218,EVENT_020,GROUP_028,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0268,EVENT_020,GROUP_028,low,The deadline is more than a week out.,deadline_more_than_a_week_out; response_required,0.67
+MSG_0424,EVENT_020,GROUP_028,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0643,EVENT_020,GROUP_028,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0645,EVENT_020,GROUP_028,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0664,EVENT_020,GROUP_028,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0668,EVENT_020,GROUP_028,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0967,EVENT_020,GROUP_028,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0102,TASK_026,GROUP_029,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0112,TASK_026,GROUP_029,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0231,TASK_026,GROUP_029,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0307,TASK_026,GROUP_029,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0317,TASK_026,GROUP_029,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0407,TASK_026,GROUP_029,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0512,TASK_026,GROUP_029,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0662,TASK_026,GROUP_029,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0725,TASK_026,GROUP_029,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0780,TASK_026,GROUP_029,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0934,TASK_026,GROUP_029,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0936,TASK_026,GROUP_029,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0985,TASK_026,GROUP_029,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0999,TASK_026,GROUP_029,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_1003,TASK_026,GROUP_029,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_1014,TASK_026,GROUP_029,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0103,EVENT_021,GROUP_030,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0282,EVENT_021,GROUP_030,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0316,EVENT_021,GROUP_030,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0359,EVENT_021,GROUP_030,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0413,EVENT_021,GROUP_030,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0445,EVENT_021,GROUP_030,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0579,EVENT_021,GROUP_030,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0630,EVENT_021,GROUP_030,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0831,EVENT_021,GROUP_030,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0837,EVENT_021,GROUP_030,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0968,EVENT_021,GROUP_030,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0113,TASK_030,GROUP_031,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0136,TASK_030,GROUP_031,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0147,TASK_030,GROUP_031,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0203,TASK_030,GROUP_031,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0361,TASK_030,GROUP_031,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0513,TASK_030,GROUP_031,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0561,TASK_030,GROUP_031,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0690,TASK_030,GROUP_031,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0850,TASK_030,GROUP_031,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0851,TASK_030,GROUP_031,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0937,TASK_030,GROUP_031,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0941,TASK_030,GROUP_031,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0945,TASK_030,GROUP_031,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0977,TASK_030,GROUP_031,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0119,TASK_033,GROUP_032,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0219,TASK_033,GROUP_032,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0358,TASK_033,GROUP_032,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0473,TASK_033,GROUP_032,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0485,TASK_033,GROUP_032,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0531,TASK_033,GROUP_032,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0722,TASK_033,GROUP_032,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0776,TASK_033,GROUP_032,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0815,TASK_033,GROUP_032,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0870,TASK_033,GROUP_032,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0940,TASK_033,GROUP_032,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0981,TASK_033,GROUP_032,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0133,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0207,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0278,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0350,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0354,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0444,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0502,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0526,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0770,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0801,EVENT_028,GROUP_033,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0152,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0227,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0235,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0240,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0523,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0525,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0696,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0768,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0875,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0888,TASK_041,GROUP_034,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0157,TASK_043,GROUP_035,medium,The deadline is within 2 days.,deadline_within_2_days; response_required,0.67
+MSG_0226,TASK_043,GROUP_035,high,The deadline is today.,deadline_today; response_required,0.67
+MSG_0360,TASK_043,GROUP_035,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0417,TASK_043,GROUP_035,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0455,TASK_043,GROUP_035,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0483,TASK_043,GROUP_035,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0517,TASK_043,GROUP_035,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0607,TASK_043,GROUP_035,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0612,TASK_043,GROUP_035,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0658,TASK_043,GROUP_035,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0948,TASK_043,GROUP_035,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0984,TASK_043,GROUP_035,low,"Item status is ""cancelled"" as of this message — no further action is needed.",status_cancelled,0.9
+MSG_0160,TASK_044,GROUP_036,high,The deadline is today.,deadline_today; response_required,0.67
+MSG_0208,TASK_044,GROUP_036,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0369,TASK_044,GROUP_036,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0379,TASK_044,GROUP_036,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0530,TASK_044,GROUP_036,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0547,TASK_044,GROUP_036,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0552,TASK_044,GROUP_036,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0639,TASK_044,GROUP_036,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0730,TASK_044,GROUP_036,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0824,TASK_044,GROUP_036,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0949,TASK_044,GROUP_036,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0978,TASK_044,GROUP_036,low,"Item status is ""completed"" as of this message — no further action is needed.",status_completed,0.9
+MSG_0170,TASK_046,GROUP_037,high,The deadline is today.,deadline_today; response_required,0.67
+MSG_0280,TASK_046,GROUP_037,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0556,TASK_046,GROUP_037,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0566,TASK_046,GROUP_037,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0652,TASK_046,GROUP_037,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0716,TASK_046,GROUP_037,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0720,TASK_046,GROUP_037,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0787,TASK_046,GROUP_037,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0795,TASK_046,GROUP_037,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0819,TASK_046,GROUP_037,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0971,TASK_046,GROUP_037,critical,The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.,overdue; explicitly_marked_urgent; conflicting_deadline_reported; response_required,0.79
+MSG_0992,TASK_046,GROUP_037,critical,The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.,overdue; explicitly_marked_urgent; conflicting_deadline_reported; response_required,0.79
+MSG_1007,TASK_046,GROUP_037,critical,The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.,overdue; explicitly_marked_urgent; conflicting_deadline_reported; response_required,0.79
+MSG_0252,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0312,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0334,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0340,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0401,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0615,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0657,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0659,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0864,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0865,TASK_070,GROUP_038,high,The deadline has already passed.,overdue; response_required,0.67
+MSG_0989,TASK_070,GROUP_038,critical,The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.,overdue; explicitly_marked_urgent; conflicting_deadline_reported; response_required,0.79
+MSG_1001,TASK_070,GROUP_038,critical,The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.,overdue; explicitly_marked_urgent; conflicting_deadline_reported; response_required,0.79
+MSG_1005,TASK_070,GROUP_038,critical,The deadline has already passed; a message explicitly marked it urgent; a conflicting deadline was reported.,overdue; explicitly_marked_urgent; conflicting_deadline_reported; response_required,0.79
+MSG_0271,EVENT_053,GROUP_039,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0293,EVENT_053,GROUP_039,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0363,EVENT_053,GROUP_039,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0414,EVENT_053,GROUP_039,medium,The deadline is within a week.,deadline_within_a_week; response_required,0.67
+MSG_0565,EVENT_053,GROUP_039,high,"The deadline is today; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_today; response_required; time_sensitive_meeting_category,0.73
+MSG_0616,EVENT_053,GROUP_039,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0800,EVENT_053,GROUP_039,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0810,EVENT_053,GROUP_039,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0849,EVENT_053,GROUP_039,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0894,EVENT_053,GROUP_039,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0310,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0323,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0386,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0393,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0486,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0492,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0505,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0654,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0775,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0859,TASK_082,GROUP_040,medium,No concrete deadline is known; the latest status is ambiguous.,deadline_unresolved_or_unknown; status_unclear; response_required,0.48
+MSG_0327,EVENT_062,GROUP_041,high,"The deadline is within 2 days; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_within_2_days; response_required; time_sensitive_meeting_category,0.73
+MSG_0384,EVENT_062,GROUP_041,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0450,EVENT_062,GROUP_041,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0519,EVENT_062,GROUP_041,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0600,EVENT_062,GROUP_041,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0798,EVENT_062,GROUP_041,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0860,EVENT_062,GROUP_041,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0877,EVENT_062,GROUP_041,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0882,EVENT_062,GROUP_041,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_0900,EVENT_062,GROUP_041,high,"The deadline has already passed; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",overdue; response_required; time_sensitive_meeting_category,0.73
+MSG_1016,EVENT_171,GROUP_042,critical,"The deadline is today; it was assigned by project lead; it is a scheduled meeting/event, not a task, so a missed slot can't be caught up on later.",deadline_today; response_required; assigned_by_project_lead; time_sensitive_meeting_category,0.79
+MSG_1026,EVENT_171,GROUP_042,high,The deadline is today; it was assigned by mentor.,deadline_today; response_required; assigned_by_mentor,0.73
+MSG_1017,TASK_241,GROUP_043,high,The deadline is within 2 days; it was assigned by mentor.,deadline_within_2_days; response_required; assigned_by_mentor,0.73
+MSG_1027,TASK_241,GROUP_043,high,The deadline is today; it was assigned by hr team.,deadline_today; response_required; assigned_by_hr_team,0.73
+MSG_1018,TASK_242,GROUP_044,high,The deadline is within 2 days; it was assigned by hr team.,deadline_within_2_days; response_required; assigned_by_hr_team,0.73
+MSG_1028,TASK_242,GROUP_044,high,The deadline is within 2 days; it was assigned by project lead.,deadline_within_2_days; response_required; assigned_by_project_lead,0.73
+MSG_1019,TASK_243,GROUP_045,medium,The deadline is within a week; it was assigned by project lead.,deadline_within_a_week; response_required; assigned_by_project_lead,0.73
+MSG_1029,TASK_243,GROUP_045,high,The deadline is within 2 days; it was assigned by mentor.,deadline_within_2_days; response_required; assigned_by_mentor,0.73
+MSG_1020,EVENT_172,GROUP_046,medium,The deadline is within a week; it was assigned by mentor.,deadline_within_a_week; response_required; assigned_by_mentor,0.73
+MSG_1030,EVENT_172,GROUP_046,medium,The deadline is within a week; it was assigned by hr team.,deadline_within_a_week; response_required; assigned_by_hr_team,0.73
+MSG_1021,TASK_244,GROUP_047,medium,The deadline is within a week; it was assigned by hr team.,deadline_within_a_week; response_required; assigned_by_hr_team,0.73
+MSG_1031,TASK_244,GROUP_047,medium,The deadline is within a week; it was assigned by project lead.,deadline_within_a_week; response_required; assigned_by_project_lead,0.73
+MSG_1022,TASK_245,GROUP_048,medium,The deadline is within a week; it was assigned by project lead.,deadline_within_a_week; response_required; assigned_by_project_lead,0.73
+MSG_1032,TASK_245,GROUP_048,medium,The deadline is within a week; it was assigned by mentor.,deadline_within_a_week; response_required; assigned_by_mentor,0.73
+MSG_1023,TASK_246,GROUP_049,medium,The deadline is within a week; it was assigned by mentor.,deadline_within_a_week; response_required; assigned_by_mentor,0.73
+MSG_1033,TASK_246,GROUP_049,medium,The deadline is within a week; it was assigned by hr team.,deadline_within_a_week; response_required; assigned_by_hr_team,0.73
+MSG_1024,EVENT_173,GROUP_050,medium,The deadline is more than a week out; it was assigned by hr team.,deadline_more_than_a_week_out; response_required; assigned_by_hr_team,0.73
+MSG_1034,EVENT_173,GROUP_050,medium,The deadline is within a week; it was assigned by project lead.,deadline_within_a_week; response_required; assigned_by_project_lead,0.73
+MSG_1025,TASK_247,GROUP_051,medium,The deadline is more than a week out; it was assigned by project lead.,deadline_more_than_a_week_out; response_required; assigned_by_project_lead,0.73
+MSG_1035,TASK_247,GROUP_051,medium,The deadline is more than a week out; it was assigned by mentor.,deadline_more_than_a_week_out; response_required; assigned_by_mentor,0.73

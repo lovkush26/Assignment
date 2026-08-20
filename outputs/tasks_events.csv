@@ -409,3 +409,23 @@ EVENT_168,event,Design review,Scheduled event: design review at the training hal
 EVENT_169,event,AI workshop,Scheduled event: AI workshop at Google Meet.,2026-09-13,12:00,,high,MSG_0895
 TASK_240,task,Complete the Python exercise,Action requested: complete the Python exercise.,2026-09-06,,,high,MSG_0898
 EVENT_170,event,College seminar,Scheduled event: college seminar at the main office.,2026-09-15,10:00,,high,MSG_0900
+EVENT_171,event,Prepare the offline inference demo,New event scheduled: Prepare the offline inference demo on 2026-09-30 at 10:00.,2026-09-30,10:00,,high,MSG_1016
+TASK_241,task,Compare two embedding models,"New task requested: Compare two embedding models, deadline 2026-10-01.",2026-10-01,,,high,MSG_1017
+TASK_242,task,Document privacy-routing decisions,"New task requested: Document privacy-routing decisions, deadline 2026-10-02.",2026-10-02,,,high,MSG_1018
+TASK_243,task,Create a latency chart,"New task requested: Create a latency chart, deadline 2026-10-03.",2026-10-03,,,medium,MSG_1019
+EVENT_172,event,Review the quantization results,New event scheduled: Review the quantization results on 2026-10-04 at 14:00.,2026-10-04,14:00,,medium,MSG_1020
+TASK_244,task,Test the assistant without internet,"New task requested: Test the assistant without internet, deadline 2026-10-05.",2026-10-05,,,medium,MSG_1021
+TASK_245,task,Update the architecture diagram,"New task requested: Update the architecture diagram, deadline 2026-10-06.",2026-10-06,,,medium,MSG_1022
+TASK_246,task,Measure memory usage,"New task requested: Measure memory usage, deadline 2026-10-07.",2026-10-07,,,medium,MSG_1023
+EVENT_173,event,Prepare the L2 presentation,New event scheduled: Prepare the L2 presentation on 2026-10-08 at 12:00.,2026-10-08,12:00,,low,MSG_1024
+TASK_247,task,Validate the mandatory queries,"New task requested: Validate the mandatory queries, deadline 2026-10-09.",2026-10-09,,,low,MSG_1025
+TASK_248,task,Prepare the offline inference demo,"New task requested: Prepare the offline inference demo, deadline 2026-09-30.",2026-09-30,,,high,MSG_1026
+TASK_249,task,Compare two embedding models,"New task requested: Compare two embedding models, deadline 2026-10-01.",2026-10-01,,,high,MSG_1027
+EVENT_174,event,Document privacy-routing decisions,New event scheduled: Document privacy-routing decisions on 2026-10-02 at 10:00.,2026-10-02,10:00,,high,MSG_1028
+TASK_250,task,Create a latency chart,"New task requested: Create a latency chart, deadline 2026-10-03.",2026-10-03,,,high,MSG_1029
+TASK_251,task,Review the quantization results,"New task requested: Review the quantization results, deadline 2026-10-04.",2026-10-04,,,medium,MSG_1030
+TASK_252,task,Test the assistant without internet,"New task requested: Test the assistant without internet, deadline 2026-10-05.",2026-10-05,,,medium,MSG_1031
+EVENT_175,event,Update the architecture diagram,New event scheduled: Update the architecture diagram on 2026-10-06 at 14:00.,2026-10-06,14:00,,medium,MSG_1032
+TASK_253,task,Measure memory usage,"New task requested: Measure memory usage, deadline 2026-10-07.",2026-10-07,,,medium,MSG_1033
+TASK_254,task,Prepare the L2 presentation,"New task requested: Prepare the L2 presentation, deadline 2026-10-08.",2026-10-08,,,medium,MSG_1034
+TASK_255,task,Validate the mandatory queries,"New task requested: Validate the mandatory queries, deadline 2026-10-09.",2026-10-09,,,low,MSG_1035

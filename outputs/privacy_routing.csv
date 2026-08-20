@@ -1,0 +1,1081 @@
+message_id,route,risk,sensitivity_types,recommended_action,reason
+MSG_0001,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0002,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0003,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0004,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0005,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0006,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0007,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0008,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0009,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0010,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0011,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0012,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0013,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0014,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0015,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0016,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0017,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0018,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0019,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0020,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0021,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0022,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0023,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0024,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0025,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0026,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0027,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0028,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0029,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0030,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0031,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0032,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0033,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0034,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0035,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0036,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0037,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0038,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0039,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0040,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0041,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0042,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0043,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0044,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0045,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0046,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0047,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0048,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0049,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0050,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0051,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0052,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0053,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0054,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0055,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0056,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0057,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0058,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0059,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0060,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0061,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0062,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0063,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0064,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0065,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0066,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0067,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0068,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0069,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0070,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0071,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0072,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0073,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0074,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0075,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0076,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0077,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0078,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0079,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0080,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0081,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0082,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0083,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0084,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0085,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0086,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0087,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0088,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0089,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0090,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0091,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0092,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0093,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0094,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0095,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0096,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0097,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0098,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0099,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0100,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0101,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0102,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0103,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0104,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0105,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0106,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0107,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0108,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0109,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0110,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0111,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0112,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0113,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0114,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0115,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0116,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0117,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0118,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0119,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0120,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0121,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0122,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0123,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0124,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0125,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0126,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0127,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0128,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0129,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0130,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0131,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0132,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0133,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0134,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0135,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0136,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0137,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0138,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0139,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0140,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0141,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0142,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0143,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0144,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0145,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0146,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0147,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0148,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0149,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0150,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0151,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0152,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0153,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0154,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0155,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0156,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0157,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0158,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0159,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0160,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0161,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0162,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0163,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0164,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0165,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0166,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0167,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0168,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0169,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0170,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0171,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0172,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0173,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0174,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0175,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0176,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0177,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0178,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0179,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0180,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0181,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0182,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0183,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0184,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0185,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0186,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0187,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0188,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0189,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0190,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0191,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0192,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0193,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0194,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0195,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0196,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0197,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0198,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0199,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0200,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0201,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0202,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0203,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0204,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0205,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0206,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0207,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0208,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0209,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0210,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0211,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0212,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0213,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0214,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0215,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0216,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0217,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0218,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0219,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0220,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0221,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0222,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0223,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0224,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0225,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0226,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0227,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0228,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0229,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0230,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0231,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0232,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0233,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0234,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0235,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0236,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0237,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0238,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0239,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0240,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0241,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0242,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0243,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0244,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0245,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0246,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0247,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0248,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0249,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0250,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0251,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0252,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0253,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0254,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0255,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0256,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0257,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0258,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0259,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0260,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0261,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0262,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0263,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0264,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0265,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0266,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0267,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0268,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0269,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0270,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0271,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0272,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0273,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0274,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0275,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0276,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0277,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0278,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0279,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0280,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0281,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0282,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0283,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0284,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0285,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0286,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0287,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0288,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0289,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0290,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0291,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0292,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0293,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0294,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0295,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0296,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0297,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0298,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0299,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0300,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0301,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0302,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0303,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0304,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0305,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0306,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0307,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0308,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0309,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0310,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0311,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0312,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0313,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0314,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0315,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0316,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0317,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0318,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0319,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0320,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0321,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0322,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0323,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0324,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0325,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0326,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0327,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0328,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0329,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0330,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0331,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0332,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0333,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0334,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0335,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0336,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0337,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0338,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0339,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0340,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0341,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0342,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0343,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0344,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0345,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0346,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0347,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0348,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0349,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0350,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0351,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0352,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0353,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0354,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0355,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0356,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0357,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0358,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0359,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0360,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0361,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0362,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0363,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0364,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0365,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0366,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0367,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0368,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0369,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0370,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0371,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0372,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0373,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0374,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0375,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0376,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0377,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0378,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0379,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0380,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0381,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0382,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0383,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0384,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0385,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0386,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0387,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0388,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0389,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0390,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0391,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0392,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0393,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0394,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0395,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0396,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0397,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0398,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0399,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0400,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0401,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0402,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0403,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0404,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0405,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0406,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0407,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0408,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0409,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0410,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0411,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0412,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0413,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0414,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0415,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0416,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0417,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0418,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0419,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0420,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0421,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0422,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0423,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0424,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0425,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0426,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0427,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0428,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0429,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0430,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0431,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0432,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0433,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0434,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0435,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0436,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0437,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0438,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0439,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0440,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0441,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0442,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0443,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0444,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0445,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0446,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0447,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0448,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0449,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0450,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0451,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0452,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0453,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0454,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0455,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0456,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0457,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0458,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0459,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0460,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0461,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0462,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0463,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0464,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0465,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0466,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0467,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0468,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0469,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0470,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0471,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0472,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0473,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0474,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0475,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0476,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0477,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0478,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0479,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0480,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0481,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0482,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0483,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0484,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0485,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0486,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0487,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0488,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0489,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0490,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0491,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0492,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0493,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0494,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0495,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0496,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0497,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0498,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0499,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0500,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0501,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0502,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0503,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0504,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0505,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0506,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0507,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0508,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0509,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0510,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0511,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0512,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0513,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0514,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0515,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0516,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0517,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0518,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0519,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0520,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0521,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0522,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0523,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0524,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0525,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0526,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0527,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0528,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0529,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0530,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0531,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0532,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0533,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0534,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0535,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0536,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0537,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0538,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0539,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0540,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0541,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0542,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0543,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0544,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0545,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0546,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0547,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0548,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0549,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0550,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0551,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0552,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0553,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0554,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0555,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0556,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0557,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0558,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0559,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0560,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0561,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0562,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0563,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0564,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0565,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0566,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0567,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0568,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0569,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0570,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0571,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0572,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0573,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0574,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0575,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0576,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0577,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0578,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0579,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0580,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0581,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0582,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0583,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0584,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0585,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0586,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0587,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0588,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0589,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0590,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0591,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0592,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0593,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0594,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0595,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0596,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0597,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0598,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0599,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0600,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0601,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0602,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0603,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0604,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0605,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0606,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0607,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0608,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0609,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0610,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0611,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0612,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0613,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0614,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0615,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0616,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0617,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0618,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0619,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0620,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0621,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0622,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0623,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0624,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0625,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0626,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0627,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0628,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0629,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0630,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0631,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0632,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0633,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0634,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0635,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0636,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0637,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0638,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0639,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0640,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0641,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0642,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0643,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0644,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0645,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0646,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0647,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0648,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0649,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0650,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0651,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0652,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0653,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0654,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0655,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0656,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0657,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0658,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0659,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0660,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0661,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0662,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0663,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0664,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0665,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0666,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0667,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0668,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0669,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0670,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0671,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0672,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0673,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0674,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0675,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0676,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0677,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0678,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0679,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0680,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0681,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0682,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0683,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0684,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0685,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0686,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0687,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0688,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0689,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0690,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0691,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0692,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0693,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0694,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0695,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0696,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0697,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0698,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0699,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0700,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0701,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0702,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0703,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0704,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0705,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0706,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0707,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0708,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0709,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0710,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0711,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0712,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0713,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0714,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0715,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0716,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0717,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0718,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0719,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0720,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0721,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0722,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0723,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0724,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0725,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0726,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0727,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0728,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0729,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0730,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0731,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0732,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0733,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0734,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0735,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0736,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0737,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0738,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0739,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0740,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0741,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0742,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0743,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0744,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0745,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0746,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0747,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0748,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0749,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0750,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0751,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0752,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0753,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0754,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0755,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0756,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0757,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0758,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0759,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0760,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0761,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0762,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0763,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_0764,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0765,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0766,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0767,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0768,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0769,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0770,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0771,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0772,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_0773,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0774,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0775,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0776,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0777,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_0778,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_0779,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0780,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0781,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0782,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0783,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0784,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0785,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0786,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0787,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0788,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0789,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0790,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0791,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0792,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0793,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0794,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0795,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0796,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0797,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0798,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0799,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0800,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0801,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0802,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_0803,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0804,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_0805,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0806,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0807,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0808,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0809,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0810,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0811,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0812,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0813,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0814,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0815,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0816,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0817,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0818,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0819,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0820,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0821,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0822,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0823,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0824,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0825,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0826,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0827,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0828,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0829,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0830,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0831,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0832,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0833,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0834,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0835,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0836,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0837,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0838,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0839,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0840,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0841,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0842,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0843,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0844,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0845,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0846,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0847,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0848,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0849,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0850,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0851,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0852,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0853,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0854,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0855,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0856,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0857,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0858,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0859,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0860,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0861,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0862,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0863,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0864,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0865,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0866,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0867,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0868,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0869,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0870,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0871,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0872,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0873,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0874,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0875,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0876,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0877,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0878,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0879,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0880,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_0881,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0882,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0883,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0884,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0885,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0886,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0887,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0888,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0889,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0890,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_0891,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0892,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0893,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0894,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0895,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0896,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0897,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0898,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0899,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0900,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0901,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0902,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0903,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0904,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0905,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0906,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0907,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0908,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0909,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0910,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0911,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0912,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0913,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0914,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0915,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0916,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0917,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0918,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0919,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0920,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0921,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0922,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0923,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0924,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0925,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0926,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0927,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0928,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0929,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0930,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0931,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0932,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0933,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0934,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0935,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0936,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0937,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0938,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0939,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0940,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0941,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0942,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0943,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0944,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0945,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0946,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0947,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0948,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0949,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0950,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0951,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0952,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0953,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0954,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0955,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0956,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0957,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0958,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0959,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0960,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0961,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0962,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0963,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0964,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0965,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0966,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0967,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0968,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0969,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0970,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0971,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0972,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0973,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0974,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0975,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0976,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0977,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0978,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0979,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0980,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0981,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0982,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0983,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0984,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0985,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0986,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0987,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0988,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0989,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0990,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0991,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0992,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0993,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0994,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0995,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0996,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0997,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0998,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_0999,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1000,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1001,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1002,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1003,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1004,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1005,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1006,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1007,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1008,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1009,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1010,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1011,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1012,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1013,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1014,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1015,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1016,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1017,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1018,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1019,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1020,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1021,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1022,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1023,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1024,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1025,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1026,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1027,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1028,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1029,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1030,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1031,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1032,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1033,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1034,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1035,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1036,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_1037,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_1038,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_1039,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_1040,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_1041,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_1042,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_1043,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_1044,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_1045,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_1046,blocked,high,one_time_password,do_not_store,Contains high-risk sensitive information (one_time_password); blocked from any further/external processing.
+MSG_1047,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_1048,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_1049,ask_for_confirmation,medium,private_address,ask_for_confirmation,Contains medium-risk personal information (private_address); requires human confirmation before storage or further action.
+MSG_1050,ask_for_confirmation,medium,private_contact_detail,ask_for_confirmation,Contains medium-risk personal information (private_contact_detail); requires human confirmation before storage or further action.
+MSG_1051,ask_for_confirmation,medium,health_information,ask_for_confirmation,Contains medium-risk personal information (health_information); requires human confirmation before storage or further action.
+MSG_1052,blocked,high,password,do_not_store,Contains high-risk sensitive information (password); blocked from any further/external processing.
+MSG_1053,blocked,high,personal_identification_number,do_not_store,Contains high-risk sensitive information (personal_identification_number); blocked from any further/external processing.
+MSG_1054,blocked,high,bank_or_payment_details,do_not_store,Contains high-risk sensitive information (bank_or_payment_details); blocked from any further/external processing.
+MSG_1055,blocked,high,authentication_token,do_not_store,Contains high-risk sensitive information (authentication_token); blocked from any further/external processing.
+MSG_1056,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1057,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1058,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1059,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1060,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1061,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1062,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1063,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1064,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1065,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1066,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1067,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1068,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1069,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1070,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1071,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1072,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1073,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1074,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1075,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1076,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1077,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1078,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1079,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.
+MSG_1080,process_locally,none,,process_locally,No sensitive information detected; safe to process locally with no restriction.

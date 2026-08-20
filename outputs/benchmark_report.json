@@ -1,0 +1,32 @@
+{
+  "dataset_sizes": {
+    "l1_messages": 900,
+    "l2_messages": 180,
+    "combined": 1080
+  },
+  "response_time_seconds": {
+    "l1_only_3_parts_900_msgs": 0.2706,
+    "l2_full_6_parts_1080_msgs": 0.767,
+    "grouping_only_with_fuzzy_fallback": 0.26,
+    "grouping_only_without_fuzzy_fallback": 0.2256
+  },
+  "index_size": {
+    "component": "grouping.py fuzzy-match TF-IDF corpus (one 'document' per related-message group title)",
+    "documents": 51,
+    "vocabulary_terms": 187,
+    "sparse_matrix_bytes": 2788
+  },
+  "result_quality": {
+    "unresolved_references_without_fuzzy_fallback": 27,
+    "unresolved_references_with_fuzzy_fallback": 15,
+    "additional_messages_correctly_linked_by_fuzzy_layer": 12
+  },
+  "output_counts": {
+    "classifications": 1080,
+    "tasks_events": 430,
+    "sensitive_findings": 120,
+    "priority_decisions": 545,
+    "related_message_groups": 51,
+    "privacy_routing_decisions": 1080
+  }
+}
